@@ -1,0 +1,90 @@
+
+thuycung.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg11
+  rotate: true
+  xy: 334, 222
+  size: 249, 427
+  orig: 249, 427
+  offset: 0, 0
+  index: -1
+bg22
+  rotate: false
+  xy: 763, 338
+  size: 245, 133
+  orig: 245, 133
+  offset: 0, 0
+  index: -1
+bgtexxt
+  rotate: false
+  xy: 334, 118
+  size: 289, 102
+  orig: 289, 102
+  offset: 0, 0
+  index: -1
+bong3
+  rotate: false
+  xy: 576, 60
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+cha
+  rotate: false
+  xy: 2, 59
+  size: 330, 412
+  orig: 330, 412
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 763, 190
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+phao1
+  rotate: false
+  xy: 478, 37
+  size: 96, 79
+  orig: 96, 79
+  offset: 0, 0
+  index: -1
+phao2
+  rotate: true
+  xy: 625, 121
+  size: 99, 113
+  orig: 99, 113
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: true
+  xy: 334, 6
+  size: 110, 142
+  orig: 110, 142
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: false
+  xy: 220, 15
+  size: 90, 42
+  orig: 90, 42
+  offset: 0, 0
+  index: -1
+tay3
+  rotate: true
+  xy: 911, 226
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+txt11
+  rotate: false
+  xy: 2, 2
+  size: 216, 55
+  orig: 216, 55
+  offset: 0, 0
+  index: -1

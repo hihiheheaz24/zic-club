@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1ac9d77f-2604-4a01-a376-aa64d8af6205",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 76,
+  "height": 75,
+  "platformSettings": {},
+  "subMetas": {
+    "icChatRoom": {
+      "ver": "1.0.4",
+      "uuid": "034ca21a-e68e-4ac2-94db-cf88c75e47e8",
+      "rawTextureUuid": "1ac9d77f-2604-4a01-a376-aa64d8af6205",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 76,
+      "height": 75,
+      "rawWidth": 76,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

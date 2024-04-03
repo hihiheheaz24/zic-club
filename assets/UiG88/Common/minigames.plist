@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>candy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,404},{161,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{161,104}}</string>
+				<key>sourceSize</key>
+				<string>{161,104}</string>
+			</dict>
+
+			<key>countdowntx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{404,150},{46,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{46,48}}</string>
+				<key>sourceSize</key>
+				<string>{46,48}</string>
+			</dict>
+
+			<key>khung-mini.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{403,403}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{403,403}}</string>
+				<key>sourceSize</key>
+				<string>{403,403}</string>
+			</dict>
+
+			<key>mini-poker.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{162,404},{156,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{156,79}}</string>
+				<key>sourceSize</key>
+				<string>{156,79}</string>
+			</dict>
+
+			<key>tai_xiu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{319,404},{124,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{124,104}}</string>
+				<key>sourceSize</key>
+				<string>{124,104}</string>
+			</dict>
+
+			<key>txt_tai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{404,54},{83,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{83,50}}</string>
+				<key>sourceSize</key>
+				<string>{83,50}</string>
+			</dict>
+
+			<key>txt_xiu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{404,0},{91,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{91,53}}</string>
+				<key>sourceSize</key>
+				<string>{91,53}</string>
+			</dict>
+
+			<key>xe_png.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{404,105},{80,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{80,44}}</string>
+				<key>sourceSize</key>
+				<string>{80,49}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{512,512}</string>
+			<key>textureFileName</key>
+			<string>minigames.png</string>
+			</dict>
+		</dict>
+</plist>

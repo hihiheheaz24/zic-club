@@ -1,0 +1,20 @@
+
+logomd5.png
+size: 428,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+md5
+  rotate: false
+  xy: 270, 16
+  size: 156, 82
+  orig: 164, 89
+  offset: 4, 3
+  index: -1
+taixiu
+  rotate: false
+  xy: 2, 2
+  size: 266, 96
+  orig: 274, 104
+  offset: 4, 4
+  index: -1

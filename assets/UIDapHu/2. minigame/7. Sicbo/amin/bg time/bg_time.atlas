@@ -1,0 +1,20 @@
+
+bg_time.png
+size: 182,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 33
+  rotate: true
+  xy: 98, 7
+  size: 84, 82
+  orig: 86, 84
+  offset: 1, 1
+  index: -1
+Layer 34
+  rotate: false
+  xy: 2, 2
+  size: 94, 89
+  orig: 97, 94
+  offset: 2, 3
+  index: -1

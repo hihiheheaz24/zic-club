@@ -1,0 +1,20 @@
+
+girl_sicbo.png
+size: 217,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl
+  rotate: true
+  xy: 2, 2
+  size: 180, 190
+  orig: 182, 192
+  offset: 1, 1
+  index: -1
+mat
+  rotate: true
+  xy: 194, 138
+  size: 44, 21
+  orig: 48, 24
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7d16601b-914b-420c-ba40-902698faa048",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 47,
+  "height": 46,
+  "platformSettings": {},
+  "subMetas": {
+    "icoPhuongThuc": {
+      "ver": "1.0.4",
+      "uuid": "a72e2de9-912c-4d3e-8227-b407232547f1",
+      "rawTextureUuid": "7d16601b-914b-420c-ba40-902698faa048",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 47,
+      "height": 46,
+      "rawWidth": 47,
+      "rawHeight": 46,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0a1c90f6-2470-4594-9f52-db6bd7d33442",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 269,
+  "height": 152,
+  "platformSettings": {},
+  "subMetas": {
+    "CHAN THUA 1": {
+      "ver": "1.0.4",
+      "uuid": "b1737c55-375e-473a-8cce-9f808916cd69",
+      "rawTextureUuid": "0a1c90f6-2470-4594-9f52-db6bd7d33442",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": 0,
+      "trimX": 12,
+      "trimY": 20,
+      "width": 237,
+      "height": 112,
+      "rawWidth": 269,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

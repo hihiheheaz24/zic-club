@@ -1,0 +1,167 @@
+
+nap_tien.png
+size: 828,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 911
+  size: 376, 118
+  orig: 384, 128
+  offset: 4, 1
+  index: -1
+fire_1
+  rotate: false
+  xy: 380, 566
+  size: 226, 138
+  orig: 260, 320
+  offset: 14, 36
+  index: -1
+fire_10
+  rotate: false
+  xy: 609, 549
+  size: 215, 168
+  orig: 260, 320
+  offset: 17, 34
+  index: -1
+fire_11
+  rotate: false
+  xy: 587, 218
+  size: 214, 174
+  orig: 260, 320
+  offset: 17, 32
+  index: -1
+fire_12
+  rotate: true
+  xy: 228, 256
+  size: 214, 135
+  orig: 260, 320
+  offset: 17, 33
+  index: -1
+fire_13
+  rotate: true
+  xy: 231, 695
+  size: 214, 147
+  orig: 260, 320
+  offset: 17, 33
+  index: -1
+fire_14
+  rotate: true
+  xy: 578, 2
+  size: 214, 150
+  orig: 260, 320
+  offset: 17, 34
+  index: -1
+fire_15
+  rotate: false
+  xy: 362, 97
+  size: 214, 154
+  orig: 260, 320
+  offset: 17, 35
+  index: -1
+fire_16
+  rotate: true
+  xy: 226, 39
+  size: 215, 134
+  orig: 260, 320
+  offset: 17, 35
+  index: -1
+fire_17
+  rotate: false
+  xy: 609, 719
+  size: 217, 141
+  orig: 260, 320
+  offset: 16, 35
+  index: -1
+fire_18
+  rotate: true
+  xy: 231, 472
+  size: 221, 146
+  orig: 260, 320
+  offset: 16, 35
+  index: -1
+fire_19
+  rotate: false
+  xy: 2, 247
+  size: 222, 151
+  orig: 260, 320
+  offset: 16, 34
+  index: -1
+fire_2
+  rotate: false
+  xy: 380, 706
+  size: 227, 146
+  orig: 260, 320
+  offset: 13, 36
+  index: -1
+fire_20
+  rotate: false
+  xy: 379, 412
+  size: 223, 152
+  orig: 260, 320
+  offset: 16, 35
+  index: -1
+fire_21
+  rotate: false
+  xy: 2, 579
+  size: 227, 157
+  orig: 260, 320
+  offset: 15, 35
+  index: -1
+fire_3
+  rotate: false
+  xy: 2, 738
+  size: 227, 171
+  orig: 260, 320
+  offset: 13, 35
+  index: -1
+fire_4
+  rotate: false
+  xy: 380, 854
+  size: 227, 175
+  orig: 260, 320
+  offset: 12, 35
+  index: -1
+fire_5
+  rotate: false
+  xy: 2, 400
+  size: 224, 177
+  orig: 260, 320
+  offset: 13, 36
+  index: -1
+fire_6
+  rotate: false
+  xy: 604, 394
+  size: 222, 153
+  orig: 260, 320
+  offset: 14, 35
+  index: -1
+fire_7
+  rotate: false
+  xy: 365, 253
+  size: 220, 157
+  orig: 260, 320
+  offset: 15, 35
+  index: -1
+fire_8
+  rotate: false
+  xy: 2, 80
+  size: 218, 165
+  orig: 260, 320
+  offset: 16, 34
+  index: -1
+fire_9
+  rotate: false
+  xy: 609, 862
+  size: 217, 167
+  orig: 260, 320
+  offset: 16, 32
+  index: -1
+nap_tien
+  rotate: false
+  xy: 2, 10
+  size: 214, 68
+  orig: 216, 70
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,48 @@
+
+ic_poker.png
+size: 734,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kc
+  rotate: false
+  xy: 640, 74
+  size: 92, 125
+  orig: 96, 129
+  offset: 2, 2
+  index: -1
+Kr
+  rotate: false
+  xy: 398, 60
+  size: 116, 139
+  orig: 120, 143
+  offset: 2, 2
+  index: -1
+Poker copy
+  rotate: false
+  xy: 516, 7
+  size: 158, 65
+  orig: 162, 67
+  offset: 2, 1
+  index: -1
+bg
+  rotate: false
+  xy: 201, 4
+  size: 195, 195
+  orig: 197, 197
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 197, 197
+  orig: 199, 199
+  offset: 1, 1
+  index: -1
+vuongmien
+  rotate: false
+  xy: 516, 75
+  size: 122, 124
+  orig: 136, 126
+  offset: 13, 1
+  index: -1

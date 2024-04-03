@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "22ded2db-1912-4909-a005-4c828823f20e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1920,
+  "height": 1080,
+  "platformSettings": {},
+  "subMetas": {
+    "demo-giao-dien-chinh": {
+      "ver": "1.0.4",
+      "uuid": "09fb1bd4-ab68-466b-81f5-5841daf2775a",
+      "rawTextureUuid": "22ded2db-1912-4909-a005-4c828823f20e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1080,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

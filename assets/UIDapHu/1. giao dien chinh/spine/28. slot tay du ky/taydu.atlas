@@ -1,0 +1,97 @@
+
+taydu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TDK
+  rotate: false
+  xy: 2, 15
+  size: 213, 56
+  orig: 213, 56
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 73
+  size: 251, 429
+  orig: 251, 429
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 255, 90
+  size: 291, 104
+  orig: 291, 104
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 548, 2
+  size: 247, 135
+  orig: 247, 135
+  offset: 0, 0
+  index: -1
+cha
+  rotate: false
+  xy: 568, 275
+  size: 255, 227
+  orig: 255, 227
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 956, 113
+  size: 63, 110
+  orig: 63, 110
+  offset: 0, 0
+  index: -1
+fx
+  rotate: true
+  xy: 825, 225
+  size: 277, 192
+  orig: 277, 192
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 255, 196
+  size: 311, 306
+  orig: 311, 306
+  offset: 0, 0
+  index: -1
+gay
+  rotate: false
+  xy: 568, 139
+  size: 252, 134
+  orig: 252, 134
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 797, 16
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: false
+  xy: 822, 150
+  size: 132, 73
+  orig: 132, 73
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: false
+  xy: 855, 72
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+tay3
+  rotate: true
+  xy: 797, 56
+  size: 81, 56
+  orig: 81, 56
+  offset: 0, 0
+  index: -1

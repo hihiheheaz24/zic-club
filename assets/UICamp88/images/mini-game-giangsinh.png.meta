@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "070e3e9e-062f-439b-b85c-b722a57812ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 121,
+  "height": 121,
+  "platformSettings": {},
+  "subMetas": {
+    "mini-game-giangsinh": {
+      "ver": "1.0.4",
+      "uuid": "f6251bf5-2a95-43ad-ad46-43914509f54b",
+      "rawTextureUuid": "070e3e9e-062f-439b-b85c-b722a57812ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 121,
+      "height": 121,
+      "rawWidth": 121,
+      "rawHeight": 121,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

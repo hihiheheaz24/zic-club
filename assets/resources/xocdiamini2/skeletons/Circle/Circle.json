@@ -1,0 +1,49 @@
+{
+"skeleton": {
+	"hash": "dQLe1fXA4sQ",
+	"spine": "3.7-from-3.8-from-4.0-from-4.1.17",
+	"x": -58.48,
+	"y": -60.83,
+	"width": 116.35,
+	"height": 117.27,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root", "x": -1.58 },
+	{ "name": "vip_border_vip", "parent": "root", "x": 2.42, "y": -2.6 },
+	{ "name": "normal_border_normal", "parent": "vip_border_vip", "x": -3.63, "y": 0.24 },
+	{ "name": "chip_active", "parent": "normal_border_normal", "x": 2.53, "y": 0.2, "scaleX": 0.9162, "scaleY": 0.9162 }
+],
+"slots": [
+	{ "name": "vip_border_vip", "bone": "vip_border_vip", "attachment": "vip_border_vip" },
+	{ "name": "normal_border_normal", "bone": "normal_border_normal", "attachment": "normal_border_normal" },
+	{ "name": "chip_active", "bone": "chip_active", "attachment": "chip_active" }
+],
+"animations": {
+	"Circle_animation": {
+		"bones": {
+			"chip_active": {
+				"rotate": [
+					{ "time": 0.0, "angle": 0.0 },
+					{ "time": 0.5, "angle": -180 },
+					{ "time": 1, "angle": -360 }
+				]
+			}
+		}
+	}
+},
+"skins": {
+	"default": {
+		"chip_active": {
+			"chip_active": { "x": -0.05, "y": -0.05, "width": 127, "height": 128 }
+		},
+		"normal_border_normal": {
+			"normal_border_normal": { "x": 2.57, "y": -0.11, "width": 89, "height": 91 }
+		},
+		"vip_border_vip": {
+			"vip_border_vip": { "x": -1.11, "y": -0.23, "width": 89, "height": 91 }
+		}
+	}
+}
+}

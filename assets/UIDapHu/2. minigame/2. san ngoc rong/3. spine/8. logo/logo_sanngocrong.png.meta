@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e46c63bf-b9e5-4f4d-a386-8a3f7d08f153",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 410,
+  "height": 66,
+  "platformSettings": {},
+  "subMetas": {
+    "logo_sanngocrong": {
+      "ver": "1.0.4",
+      "uuid": "b7bdb3ef-dd74-4b53-b49d-42b6622de53e",
+      "rawTextureUuid": "e46c63bf-b9e5-4f4d-a386-8a3f7d08f153",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 406,
+      "height": 62,
+      "rawWidth": 410,
+      "rawHeight": 66,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

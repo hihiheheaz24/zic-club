@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e8581e13-2371-4605-8920-68edb9061c5e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1280,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "1- demo-ketqua": {
+      "ver": "1.0.4",
+      "uuid": "1c8f52b9-24d4-4f79-a7f0-39059be5d7c0",
+      "rawTextureUuid": "e8581e13-2371-4605-8920-68edb9061c5e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

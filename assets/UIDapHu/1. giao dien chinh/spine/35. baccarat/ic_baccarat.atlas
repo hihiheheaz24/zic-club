@@ -1,0 +1,55 @@
+
+ic_baccarat.png
+size: 696,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baccrat copy
+  rotate: false
+  xy: 398, 11
+  size: 203, 62
+  orig: 205, 64
+  offset: 1, 1
+  index: -1
+K
+  rotate: false
+  xy: 510, 78
+  size: 91, 121
+  orig: 94, 125
+  offset: 2, 2
+  index: -1
+baiup
+  rotate: false
+  xy: 603, 79
+  size: 88, 120
+  orig: 90, 122
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 201, 4
+  size: 195, 195
+  orig: 197, 197
+  offset: 1, 1
+  index: -1
+chip
+  rotate: false
+  xy: 603, 2
+  size: 91, 75
+  orig: 93, 77
+  offset: 1, 1
+  index: -1
+coin
+  rotate: true
+  xy: 398, 75
+  size: 124, 110
+  orig: 131, 114
+  offset: 3, 3
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 197, 197
+  orig: 199, 199
+  offset: 1, 1
+  index: -1

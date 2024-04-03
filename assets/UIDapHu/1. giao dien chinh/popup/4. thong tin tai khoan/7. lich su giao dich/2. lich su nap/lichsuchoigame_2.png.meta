@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "24251e17-b654-4370-85a5-55ff17f6f9ad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 276,
+  "height": 48,
+  "platformSettings": {},
+  "subMetas": {
+    "lichsuchoigame_2": {
+      "ver": "1.0.4",
+      "uuid": "38fc8ab9-dc25-4df2-9f64-8f89af9ea8df",
+      "rawTextureUuid": "24251e17-b654-4370-85a5-55ff17f6f9ad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 276,
+      "height": 48,
+      "rawWidth": 276,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

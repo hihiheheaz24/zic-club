@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "716e3163-9db4-4ac6-b46c-f4de71e4ca7d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 166,
+  "height": 30,
+  "platformSettings": {},
+  "subMetas": {
+    "CHI TIẾT PHIÊN": {
+      "ver": "1.0.4",
+      "uuid": "0c5ba1ed-bb8d-47c3-a755-8babedfe4421",
+      "rawTextureUuid": "716e3163-9db4-4ac6-b46c-f4de71e4ca7d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 166,
+      "height": 30,
+      "rawWidth": 166,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

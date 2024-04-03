@@ -1,0 +1,48 @@
+
+ic_maubinh.png
+size: 298,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+123456
+  rotate: true
+  xy: 199, 79
+  size: 207, 89
+  orig: 209, 93
+  offset: 1, 2
+  index: -1
+9
+  rotate: true
+  xy: 2, 2
+  size: 115, 70
+  orig: 117, 74
+  offset: 1, 2
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 316
+  size: 197, 197
+  orig: 199, 199
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 2, 119
+  size: 195, 195
+  orig: 197, 197
+  offset: 1, 1
+  index: -1
+jqka
+  rotate: true
+  xy: 201, 288
+  size: 225, 95
+  orig: 228, 98
+  offset: 2, 1
+  index: -1
+maubinh
+  rotate: false
+  xy: 74, 6
+  size: 208, 71
+  orig: 211, 74
+  offset: 2, 2
+  index: -1

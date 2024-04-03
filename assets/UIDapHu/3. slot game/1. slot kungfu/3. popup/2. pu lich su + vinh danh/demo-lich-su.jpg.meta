@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "848134f1-71be-4621-9ecb-1306fc2cd00b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1920,
+  "height": 1080,
+  "platformSettings": {},
+  "subMetas": {
+    "demo-lich-su": {
+      "ver": "1.0.4",
+      "uuid": "b8352677-628b-45be-8422-ac16d6cca269",
+      "rawTextureUuid": "848134f1-71be-4621-9ecb-1306fc2cd00b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1080,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

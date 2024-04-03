@@ -1,0 +1,202 @@
+
+Header & Jackpot.png
+size: 1791,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E1
+  rotate: false
+  xy: 1503, 46
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+E10
+  rotate: false
+  xy: 1319, 147
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+E11
+  rotate: false
+  xy: 1226, 40
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+E2
+  rotate: false
+  xy: 1663, 0
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+E3
+  rotate: false
+  xy: 573, 7
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+E4
+  rotate: false
+  xy: 1226, 11
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+E5
+  rotate: false
+  xy: 1760, 76
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+E6
+  rotate: false
+  xy: 514, 1
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+E7
+  rotate: false
+  xy: 544, 3
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+E8
+  rotate: false
+  xy: 1700, 181
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+E9
+  rotate: false
+  xy: 1319, 165
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+FirecrackersBIG
+  rotate: false
+  xy: 1266, 0
+  size: 71, 145
+  orig: 71, 145
+  offset: 0, 0
+  index: -1
+HD_light_1
+  rotate: false
+  xy: 0, 2
+  size: 89, 10
+  orig: 89, 10
+  offset: 0, 0
+  index: -1
+HD_light_2
+  rotate: false
+  xy: 958, 147
+  size: 359, 35
+  orig: 359, 35
+  offset: 0, 0
+  index: -1
+Particle_KT_1
+  rotate: false
+  xy: 958, 80
+  size: 306, 65
+  orig: 306, 65
+  offset: 0, 0
+  index: -1
+Particle_KT_2
+  rotate: false
+  xy: 481, 107
+  size: 475, 75
+  orig: 475, 75
+  offset: 0, 0
+  index: -1
+btn_naptien
+  rotate: false
+  xy: 1706, 203
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+decor1
+  rotate: false
+  xy: 1664, 62
+  size: 58, 89
+  orig: 58, 89
+  offset: 0, 0
+  index: -1
+decor2
+  rotate: false
+  xy: 1521, 41
+  size: 43, 141
+  orig: 43, 141
+  offset: 0, 0
+  index: -1
+decor3
+  rotate: false
+  xy: 1724, 105
+  size: 28, 96
+  orig: 28, 96
+  offset: 0, 0
+  index: -1
+decorpart
+  rotate: false
+  xy: 1754, 142
+  size: 16, 59
+  orig: 16, 59
+  offset: 0, 0
+  index: -1
+floral
+  rotate: false
+  xy: 0, 14
+  size: 479, 168
+  orig: 479, 168
+  offset: 0, 0
+  index: -1
+lantern
+  rotate: false
+  xy: 1339, 7
+  size: 46, 175
+  orig: 46, 175
+  offset: 0, 0
+  index: -1
+lb_header_right
+  rotate: false
+  xy: 0, 184
+  size: 1560, 100
+  orig: 1560, 100
+  offset: 0, 0
+  index: -1
+lb_money_icon (1)
+  rotate: false
+  xy: 1566, 7
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+pental
+  rotate: false
+  xy: 1709, 46
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 1562, 216
+  size: 142, 68
+  orig: 142, 68
+  offset: 0, 0
+  index: -1
+sun_0005_khung_tien2
+  rotate: false
+  xy: 481, 30
+  size: 475, 75
+  orig: 475, 75
+  offset: 0, 0
+  index: -1

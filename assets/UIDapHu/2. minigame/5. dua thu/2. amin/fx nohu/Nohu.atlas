@@ -1,0 +1,111 @@
+
+Nohu.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hutai
+  rotate: false
+  xy: 1372, 544
+  size: 379, 297
+  orig: 379, 297
+  offset: 0, 0
+  index: -1
+Khung Num
+  rotate: false
+  xy: 724, 227
+  size: 478, 104
+  orig: 478, 104
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 1204, 277
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 98, 18
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 1372, 393
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 1568, 496
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+coin5
+  rotate: false
+  xy: 1753, 786
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+coin6
+  rotate: false
+  xy: 584, 262
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+effect duoi
+  rotate: false
+  xy: 724, 333
+  size: 646, 659
+  orig: 646, 659
+  offset: 0, 0
+  index: -1
+effect sang
+  rotate: true
+  xy: 1998, 945
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+fx111
+  rotate: false
+  xy: 2, 314
+  size: 720, 678
+  orig: 720, 678
+  offset: 0, 0
+  index: -1
+kimbao chung
+  rotate: false
+  xy: 2, 2
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+nohu
+  rotate: false
+  xy: 2, 63
+  size: 580, 249
+  orig: 580, 249
+  offset: 0, 0
+  index: -1
+tienhutai
+  rotate: false
+  xy: 1372, 441
+  size: 194, 101
+  orig: 194, 101
+  offset: 0, 0
+  index: -1
+vang duoi hu tai
+  rotate: false
+  xy: 1372, 843
+  size: 624, 149
+  orig: 624, 149
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+book_M.png
+size: 99,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book
+  rotate: false
+  xy: 0, 3
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1

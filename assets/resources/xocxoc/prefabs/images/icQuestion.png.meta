@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "476b86bc-da8a-48ae-9f35-7ce23cf237d1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 39,
+  "height": 37,
+  "platformSettings": {},
+  "subMetas": {
+    "icQuestion": {
+      "ver": "1.0.4",
+      "uuid": "e25ffd86-36a0-4b93-92f8-c87f2c7af9ea",
+      "rawTextureUuid": "476b86bc-da8a-48ae-9f35-7ce23cf237d1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 39,
+      "height": 37,
+      "rawWidth": 39,
+      "rawHeight": 37,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

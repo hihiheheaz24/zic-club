@@ -1,0 +1,155 @@
+{
+"skeleton": {
+	"hash": "s1+axzNziyo",
+	"spine": "3.7-from-3.8-from-4.0-from-4.1.17",
+	"x": -257.86,
+	"y": -26.97,
+	"width": 573.9,
+	"height": 72,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -0.13, "y": 0.18, "color": "ff0000ff" },
+	{ "name": "tai", "parent": "bone", "x": -199.03, "y": 1.81 },
+	{ "name": "xiu", "parent": "bone", "x": -66.95, "y": 4.82 },
+	{ "name": "sieu", "parent": "bone", "x": 94.09, "y": 4.22 },
+	{ "name": "toc", "parent": "bone", "x": 249.47, "y": 4.89 }
+],
+"slots": [
+	{ "name": "sieu", "bone": "sieu", "attachment": "sieu" },
+	{ "name": "tai", "bone": "tai", "attachment": "tai" },
+	{ "name": "toc", "bone": "toc", "attachment": "toc" },
+	{ "name": "xiu", "bone": "xiu", "attachment": "xiu" }
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"sieu": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped", "time": 0.0 },
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.4333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 4.6667, "color": "ffffffff" },
+					{ "time": 4.8333, "color": "ffffff00" }
+				]
+			},
+			"tai": {
+				"color": [
+					{ "color": "ffffff00", "time": 0.0 },
+					{ "time": 0.1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 4.3667, "color": "ffffffff" },
+					{ "time": 4.5, "color": "ffffff00" }
+				]
+			},
+			"toc": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped", "time": 0.0 },
+					{ "time": 0.5, "color": "ffffff00" },
+					{ "time": 0.6, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 4.8333, "color": "ffffffff" },
+					{ "time": 5, "color": "ffffff00" }
+				]
+			},
+			"xiu": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped", "time": 0.0 },
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.2667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 4.5, "color": "ffffffff" },
+					{ "time": 4.6667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"tai": {
+				"translate": [
+					{ "y": 157.51, "time": 0.0 },
+					{ "time": 0.3333, "y": -16.52 },
+					{ "time": 0.4333, "curve": "stepped" },
+					{ "time": 1.6667 },
+					{ "time": 1.8333, "y": 43.36 },
+					{ "time": 2, "curve": "stepped" },
+					{ "time": 2.3333 },
+					{ "time": 2.5, "y": 43.36 },
+					{ "time": 2.6667, "curve": "stepped" },
+					{ "time": 4.0667 },
+					{ "time": 4.1667, "y": -16.52 },
+					{ "time": 4.5, "y": 157.51 }
+				]
+			},
+			"xiu": {
+				"translate": [
+					{ "y": 157.51, "curve": "stepped", "time": 0.0 },
+					{ "time": 0.1667, "y": 157.51 },
+					{ "time": 0.5, "y": -10.08 },
+					{ "time": 0.6, "curve": "stepped" },
+					{ "time": 1.8333 },
+					{ "time": 2, "y": 43.36 },
+					{ "time": 2.1667, "curve": "stepped" },
+					{ "time": 2.5 },
+					{ "time": 2.6667, "y": 43.36 },
+					{ "time": 2.8333, "curve": "stepped" },
+					{ "time": 4.2333 },
+					{ "time": 4.3333, "y": -16.52 },
+					{ "time": 4.6667, "y": 157.51 }
+				]
+			},
+			"sieu": {
+				"translate": [
+					{ "y": 157.51, "curve": "stepped", "time": 0.0 },
+					{ "time": 0.3333, "y": 157.51 },
+					{ "time": 0.6667, "y": -10.86 },
+					{ "time": 0.7667, "curve": "stepped" },
+					{ "time": 2 },
+					{ "time": 2.1667, "y": 43.36 },
+					{ "time": 2.3333, "curve": "stepped" },
+					{ "time": 2.6667 },
+					{ "time": 2.8333, "y": 43.36 },
+					{ "time": 3, "curve": "stepped" },
+					{ "time": 4.4 },
+					{ "time": 4.5, "y": -16.52 },
+					{ "time": 4.8333, "y": 157.51 }
+				]
+			},
+			"toc": {
+				"translate": [
+					{ "y": 157.51, "curve": "stepped", "time": 0.0 },
+					{ "time": 0.5, "y": 157.51 },
+					{ "time": 0.8333, "y": -9.06 },
+					{ "time": 0.9333, "curve": "stepped" },
+					{ "time": 2.1667 },
+					{ "time": 2.3333, "y": 43.36 },
+					{ "time": 2.5, "curve": "stepped" },
+					{ "time": 2.8333 },
+					{ "time": 3, "y": 43.36 },
+					{ "time": 3.1667, "curve": "stepped" },
+					{ "time": 4.5667 },
+					{ "time": 4.6667, "y": -16.52 },
+					{ "time": 5, "y": 157.51 }
+				],
+				"shear": [
+					{ "time": 5.3333 }
+				]
+			}
+		}
+	}
+},
+"skins": {
+	"default": {
+		"sieu": {
+			"sieu": { "x": -6.84, "y": 2.68, "width": 156, "height": 66 }
+		},
+		"tai": {
+			"tai": { "x": -1.7, "y": 4.19, "width": 114, "height": 65 }
+		},
+		"toc": {
+			"toc": { "x": -1.8, "y": 3.96, "width": 137, "height": 72 }
+		},
+		"xiu": {
+			"xiu": { "x": 1.41, "y": 3.09, "width": 124, "height": 70 }
+		}
+	}
+}
+}

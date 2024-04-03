@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "86500b80-211c-4996-9adc-7f6e249e2998",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 250,
+  "height": 250,
+  "platformSettings": {},
+  "subMetas": {
+    "dg-casino-icon": {
+      "ver": "1.0.4",
+      "uuid": "74e1f612-0ecc-4119-8139-d578eae2d8e9",
+      "rawTextureUuid": "86500b80-211c-4996-9adc-7f6e249e2998",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": -0.5,
+      "trimX": 19,
+      "trimY": 60,
+      "width": 215,
+      "height": 131,
+      "rawWidth": 250,
+      "rawHeight": 250,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

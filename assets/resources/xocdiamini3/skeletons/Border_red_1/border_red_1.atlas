@@ -1,0 +1,20 @@
+
+border_red_1.png
+size: 310, 168
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+4_red_border
+  rotate: false
+  xy: 2, 2
+  size: 256, 164
+  orig: 256, 164
+  offset: 0, 0
+  index: -1
+winning_light
+  rotate: true
+  xy: 260, 112
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1

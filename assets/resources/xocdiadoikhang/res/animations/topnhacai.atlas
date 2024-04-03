@@ -1,0 +1,202 @@
+
+topnhacai.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+cup
+  rotate: false
+  xy: 419, 174
+  size: 106, 111
+  orig: 106, 111
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 746
+  size: 349, 190
+  orig: 349, 190
+  offset: 0, 0
+  index: -1
+text/text_00
+  rotate: false
+  xy: 353, 845
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_01
+  rotate: false
+  xy: 2, 560
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_02
+  rotate: false
+  xy: 353, 752
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_03
+  rotate: false
+  xy: 584, 845
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_04
+  rotate: false
+  xy: 2, 467
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_05
+  rotate: true
+  xy: 233, 515
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_06
+  rotate: false
+  xy: 584, 752
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_07
+  rotate: false
+  xy: 2, 374
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_08
+  rotate: false
+  xy: 2, 281
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_09
+  rotate: true
+  xy: 233, 284
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_10
+  rotate: false
+  xy: 2, 188
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_11
+  rotate: false
+  xy: 2, 95
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_12
+  rotate: false
+  xy: 2, 2
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_13
+  rotate: true
+  xy: 233, 53
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_14
+  rotate: true
+  xy: 815, 707
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_15
+  rotate: true
+  xy: 908, 707
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_16
+  rotate: true
+  xy: 326, 515
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_17
+  rotate: true
+  xy: 326, 284
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_18
+  rotate: true
+  xy: 326, 53
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_19
+  rotate: false
+  xy: 419, 659
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_20
+  rotate: false
+  xy: 419, 566
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_21
+  rotate: false
+  xy: 419, 473
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_22
+  rotate: true
+  xy: 650, 521
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_23
+  rotate: false
+  xy: 419, 380
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_24
+  rotate: false
+  xy: 419, 287
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1
+text/text_25
+  rotate: false
+  xy: 2, 653
+  size: 229, 91
+  orig: 229, 91
+  offset: 0, 0
+  index: -1

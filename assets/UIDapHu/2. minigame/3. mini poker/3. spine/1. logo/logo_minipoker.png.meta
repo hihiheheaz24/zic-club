@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ebd651b3-246d-403e-a2e4-32fd0b719261",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 572,
+  "height": 230,
+  "platformSettings": {},
+  "subMetas": {
+    "logo_minipoker": {
+      "ver": "1.0.4",
+      "uuid": "9b8ff6b7-1722-4bf4-a802-5d66a7133fc5",
+      "rawTextureUuid": "ebd651b3-246d-403e-a2e4-32fd0b719261",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 568,
+      "height": 226,
+      "rawWidth": 572,
+      "rawHeight": 230,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

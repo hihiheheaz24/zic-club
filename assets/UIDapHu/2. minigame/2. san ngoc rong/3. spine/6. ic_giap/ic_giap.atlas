@@ -1,0 +1,13 @@
+
+ic_giap.png
+size: 104,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ic_giao
+  rotate: false
+  xy: 2, 2
+  size: 100, 97
+  orig: 102, 103
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "43a34395-0205-4be1-b15c-8513c68f3f4e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Spine_xocdia_baucua": {
+      "ver": "1.0.4",
+      "uuid": "bcd930b8-5984-47a2-8f65-31c4ebcda800",
+      "rawTextureUuid": "43a34395-0205-4be1-b15c-8513c68f3f4e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -101.5,
+      "offsetY": 1,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 305,
+      "height": 250,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

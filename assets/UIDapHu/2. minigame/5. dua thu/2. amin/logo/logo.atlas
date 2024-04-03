@@ -1,0 +1,90 @@
+
+logo.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 657, 5
+  size: 136, 121
+  orig: 136, 121
+  offset: 0, 0
+  index: -1
+EarL
+  rotate: false
+  xy: 1118, 59
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+EarR
+  rotate: true
+  xy: 1288, 93
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1204, 66
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+Head2
+  rotate: true
+  xy: 795, 2
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: true
+  xy: 1020, 58
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: true
+  xy: 795, 48
+  size: 78, 127
+  orig: 78, 127
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: true
+  xy: 1359, 80
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 355, 8
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+bg111
+  rotate: false
+  xy: 2, 6
+  size: 351, 120
+  orig: 351, 120
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 924, 36
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 355, 40
+  size: 300, 86
+  orig: 300, 86
+  offset: 0, 0
+  index: -1

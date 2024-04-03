@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "86a150b1-ba7f-4a9a-9b81-c33998725053",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 580,
+  "height": 267,
+  "platformSettings": {},
+  "subMetas": {
+    "logo_baucua": {
+      "ver": "1.0.4",
+      "uuid": "368851dc-c3dc-4796-b94a-40d803a00bd9",
+      "rawTextureUuid": "86a150b1-ba7f-4a9a-9b81-c33998725053",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 576,
+      "height": 263,
+      "rawWidth": 580,
+      "rawHeight": 267,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

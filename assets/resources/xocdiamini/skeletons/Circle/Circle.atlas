@@ -1,0 +1,27 @@
+
+Circle.png
+size: 224, 184
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+chip_active
+  rotate: false
+  xy: 2, 54
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+normal_border_normal
+  rotate: true
+  xy: 131, 93
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+vip_border_vip
+  rotate: true
+  xy: 131, 2
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1

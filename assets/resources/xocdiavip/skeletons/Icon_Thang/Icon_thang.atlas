@@ -1,0 +1,27 @@
+
+Icon_thang.png
+size: 1257, 544
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+THANG
+  rotate: true
+  xy: 1163, 302
+  size: 240, 92
+  orig: 240, 92
+  offset: 0, 0
+  index: -1
+chucmung
+  rotate: false
+  xy: 614, 8
+  size: 547, 534
+  orig: 547, 534
+  offset: 0, 0
+  index: -1
+tienvang
+  rotate: false
+  xy: 2, 2
+  size: 610, 540
+  orig: 610, 540
+  offset: 0, 0
+  index: -1

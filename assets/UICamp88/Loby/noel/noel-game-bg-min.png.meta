@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8aa0c82a-f487-4f03-9dd7-58ac58022905",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 168,
+  "height": 164,
+  "platformSettings": {},
+  "subMetas": {
+    "noel-game-bg-min": {
+      "ver": "1.0.4",
+      "uuid": "85b72ef8-1bc5-4b83-9edb-afb12b8bd0d7",
+      "rawTextureUuid": "8aa0c82a-f487-4f03-9dd7-58ac58022905",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 165,
+      "height": 161,
+      "rawWidth": 168,
+      "rawHeight": 164,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

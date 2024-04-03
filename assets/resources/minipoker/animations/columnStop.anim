@@ -1,0 +1,113 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "columnStop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 4,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "slot0": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 155.059
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -0.466
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -155.124
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": 157.669
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 144.807
+            },
+            {
+              "frame": 1,
+              "value": 156.82
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "slot1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -156.925
+            },
+            {
+              "frame": 0.35,
+              "value": 146.833
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -0.291
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -6.925
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            },
+            {
+              "frame": 0.35,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "finishSpin",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1763, 1025
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+500k
+  rotate: false
+  xy: 1506, 542
+  size: 166, 83
+  orig: 166, 83
+  offset: 0, 0
+  index: -1
+KÍCH HOẠT NGAY
+  rotate: false
+  xy: 967, 2
+  size: 732, 155
+  orig: 732, 155
+  offset: 0, 0
+  index: -1
+bai1
+  rotate: true
+  xy: 844, 551
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+bai2
+  rotate: false
+  xy: 1679, 220
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 136
+  size: 840, 495
+  orig: 840, 495
+  offset: 0, 0
+  index: -1
+deNhanCode
+  rotate: true
+  xy: 1679, 305
+  size: 524, 60
+  orig: 524, 60
+  offset: 0, 0
+  index: -1
+giftPhai
+  rotate: false
+  xy: 1506, 831
+  size: 195, 192
+  orig: 195, 192
+  offset: 0, 0
+  index: -1
+giftTrai
+  rotate: false
+  xy: 1506, 627
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+nguoi
+  rotate: true
+  xy: 950, 542
+  size: 481, 554
+  orig: 481, 554
+  offset: 0, 0
+  index: -1
+sang
+  rotate: false
+  xy: 844, 159
+  size: 833, 381
+  orig: 833, 381
+  offset: 0, 0
+  index: -1
+sdtText
+  rotate: false
+  xy: 2, 633
+  size: 946, 390
+  orig: 946, 390
+  offset: 0, 0
+  index: -1
+vang
+  rotate: false
+  xy: 2, 27
+  size: 963, 107
+  orig: 963, 107
+  offset: 0, 0
+  index: -1

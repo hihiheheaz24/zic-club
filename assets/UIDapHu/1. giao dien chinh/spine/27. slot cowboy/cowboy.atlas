@@ -1,0 +1,104 @@
+
+cowboy.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 2, 229
+  size: 280, 537
+  orig: 280, 537
+  offset: 0, 0
+  index: -1
+BG1a
+  rotate: true
+  xy: 541, 260
+  size: 249, 427
+  orig: 249, 427
+  offset: 0, 0
+  index: -1
+T11
+  rotate: true
+  xy: 528, 212
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+T22
+  rotate: false
+  xy: 695, 26
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+bg2a
+  rotate: false
+  xy: 448, 21
+  size: 245, 133
+  orig: 245, 133
+  offset: 0, 0
+  index: -1
+bg3a
+  rotate: false
+  xy: 541, 156
+  size: 289, 102
+  orig: 289, 102
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 913, 210
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 448, 171
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 2, 2
+  size: 85, 22
+  orig: 85, 22
+  offset: 0, 0
+  index: -1
+cha1a
+  rotate: true
+  xy: 2, 26
+  size: 201, 353
+  orig: 201, 353
+  offset: 0, 0
+  index: -1
+khan
+  rotate: true
+  xy: 695, 47
+  size: 107, 158
+  orig: 107, 158
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 970, 429
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: false
+  xy: 357, 26
+  size: 89, 201
+  orig: 89, 201
+  offset: 0, 0
+  index: -1
+txt
+  rotate: true
+  xy: 855, 67
+  size: 191, 56
+  orig: 191, 56
+  offset: 0, 0
+  index: -1

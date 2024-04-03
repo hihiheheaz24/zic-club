@@ -1,0 +1,62 @@
+
+ic_tlmn.png
+size: 657,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2b
+  rotate: false
+  xy: 398, 125
+  size: 136, 146
+  orig: 142, 151
+  offset: 4, 2
+  index: -1
+2c
+  rotate: false
+  xy: 536, 131
+  size: 119, 140
+  orig: 123, 145
+  offset: 2, 3
+  index: -1
+2r
+  rotate: false
+  xy: 540, 2
+  size: 97, 127
+  orig: 103, 132
+  offset: 3, 2
+  index: -1
+2t
+  rotate: true
+  xy: 398, 3
+  size: 120, 140
+  orig: 126, 145
+  offset: 3, 3
+  index: -1
+bg
+  rotate: false
+  xy: 201, 76
+  size: 195, 195
+  orig: 197, 197
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 2, 74
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+miennam
+  rotate: false
+  xy: 2, 10
+  size: 208, 62
+  orig: 211, 66
+  offset: 2, 2
+  index: -1
+tienlen
+  rotate: false
+  xy: 212, 37
+  size: 133, 37
+  orig: 135, 39
+  offset: 1, 1
+  index: -1

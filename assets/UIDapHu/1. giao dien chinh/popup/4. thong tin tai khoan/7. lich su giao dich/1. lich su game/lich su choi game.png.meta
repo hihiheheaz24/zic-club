@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "76e86274-49de-48cb-abb8-ef318e29635c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 276,
+  "height": 48,
+  "platformSettings": {},
+  "subMetas": {
+    "lich su choi game": {
+      "ver": "1.0.4",
+      "uuid": "16851f89-7a9a-47cd-b4b2-134b9496f9ca",
+      "rawTextureUuid": "76e86274-49de-48cb-abb8-ef318e29635c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 276,
+      "height": 48,
+      "rawWidth": 276,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

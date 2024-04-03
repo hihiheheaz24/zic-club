@@ -1,0 +1,160 @@
+
+xocdiamini.png
+size: 401, 503
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Anh sang 3D
+  rotate: true
+  xy: 257, 304
+  size: 197, 77
+  orig: 197, 77
+  offset: 0, 0
+  index: -1
+c_1
+  rotate: false
+  xy: 155, 9
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+c_2
+  rotate: true
+  xy: 80, 6
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+c_3
+  rotate: true
+  xy: 336, 445
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+c_4
+  rotate: false
+  xy: 233, 11
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+dai_lua
+  rotate: true
+  xy: 208, 78
+  size: 204, 163
+  orig: 204, 163
+  offset: 0, 0
+  index: -1
+dai_lua_overlay
+  rotate: true
+  xy: 336, 295
+  size: 148, 46
+  orig: 148, 46
+  offset: 0, 0
+  index: -1
+de_icon
+  rotate: true
+  xy: 2, 284
+  size: 217, 216
+  orig: 217, 216
+  offset: 0, 0
+  index: -1
+glowing_light
+  rotate: true
+  xy: 2, 2
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+glowing_light copy 2
+  rotate: false
+  xy: 336, 33
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+glowing_light copy
+  rotate: false
+  xy: 336, 33
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+gold_1
+  rotate: false
+  xy: 257, 284
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+gold_2
+  rotate: true
+  xy: 373, 185
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+gold_3
+  rotate: true
+  xy: 373, 72
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+gold_4
+  rotate: false
+  xy: 305, 8
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+gold_5
+  rotate: true
+  xy: 373, 262
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+gold_6
+  rotate: true
+  xy: 305, 40
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+gold_7
+  rotate: false
+  xy: 336, 10
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+gold_8
+  rotate: true
+  xy: 373, 214
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+label-multiplay
+  rotate: true
+  xy: 220, 297
+  size: 204, 35
+  orig: 204, 35
+  offset: 0, 0
+  index: -1
+label-multiplay-EN
+  rotate: true
+  xy: 373, 99
+  size: 84, 23
+  orig: 84, 23
+  offset: 0, 0
+  index: -1
+nen
+  rotate: false
+  xy: 2, 78
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1

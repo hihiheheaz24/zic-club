@@ -1,0 +1,194 @@
+
+khung.png
+size: 1915,1896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuyenkhoan-daily-btn
+  rotate: false
+  xy: 2, 1870
+  size: 115, 24
+  orig: 115, 24
+  offset: 0, 0
+  index: -1
+khung_fire/khung_00
+  rotate: true
+  xy: 1393, 624
+  size: 1270, 172
+  orig: 1600, 300
+  offset: 163, 64
+  index: -1
+khung_fire/khung_01
+  rotate: true
+  xy: 1567, 624
+  size: 1270, 172
+  orig: 1600, 300
+  offset: 163, 64
+  index: -1
+khung_fire/khung_02
+  rotate: true
+  xy: 1741, 623
+  size: 1271, 172
+  orig: 1600, 300
+  offset: 163, 64
+  index: -1
+khung_fire/khung_04
+  rotate: false
+  xy: 2, 521
+  size: 1272, 171
+  orig: 1600, 300
+  offset: 163, 64
+  index: -1
+khung_fire/khung_05
+  rotate: false
+  xy: 2, 348
+  size: 1272, 171
+  orig: 1600, 300
+  offset: 163, 64
+  index: -1
+khung_fire/khung_06
+  rotate: false
+  xy: 2, 1382
+  size: 1272, 170
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_07
+  rotate: false
+  xy: 119, 1725
+  size: 1272, 169
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_08
+  rotate: false
+  xy: 2, 1554
+  size: 1272, 169
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_09
+  rotate: false
+  xy: 2, 1210
+  size: 1271, 170
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_10
+  rotate: false
+  xy: 2, 1038
+  size: 1272, 170
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_11
+  rotate: false
+  xy: 2, 175
+  size: 1273, 171
+  orig: 1600, 300
+  offset: 163, 64
+  index: -1
+khung_fire/khung_12
+  rotate: false
+  xy: 2, 2
+  size: 1273, 171
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_23
+  rotate: false
+  xy: 2, 866
+  size: 1274, 170
+  orig: 1600, 300
+  offset: 165, 66
+  index: -1
+khung_fire/khung_24
+  rotate: false
+  xy: 2, 694
+  size: 1273, 170
+  orig: 1600, 300
+  offset: 166, 66
+  index: -1
+
+khung2.png
+size: 1913,1279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+khung_fire/khung_03
+  rotate: true
+  xy: 1047, 6
+  size: 1271, 172
+  orig: 1600, 300
+  offset: 163, 64
+  index: -1
+khung_fire/khung_13
+  rotate: true
+  xy: 873, 4
+  size: 1273, 172
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_14
+  rotate: true
+  xy: 525, 3
+  size: 1274, 172
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_15
+  rotate: true
+  xy: 699, 3
+  size: 1274, 172
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_16
+  rotate: true
+  xy: 2, 2
+  size: 1275, 173
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_17
+  rotate: true
+  xy: 177, 2
+  size: 1275, 172
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_18
+  rotate: true
+  xy: 351, 2
+  size: 1275, 172
+  orig: 1600, 300
+  offset: 164, 64
+  index: -1
+khung_fire/khung_19
+  rotate: true
+  xy: 1221, 3
+  size: 1274, 171
+  orig: 1600, 300
+  offset: 165, 65
+  index: -1
+khung_fire/khung_20
+  rotate: true
+  xy: 1394, 3
+  size: 1274, 171
+  orig: 1600, 300
+  offset: 165, 65
+  index: -1
+khung_fire/khung_21
+  rotate: true
+  xy: 1567, 3
+  size: 1274, 171
+  orig: 1600, 300
+  offset: 165, 65
+  index: -1
+khung_fire/khung_22
+  rotate: true
+  xy: 1740, 4
+  size: 1273, 171
+  orig: 1600, 300
+  offset: 165, 65
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "25c5146f-fcf5-42b6-ac08-5a186a06103c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 849,
+  "height": 519,
+  "platformSettings": {},
+  "subMetas": {
+    "nen popup mini game": {
+      "ver": "1.0.4",
+      "uuid": "edde8823-4c80-43fb-9aef-60d3646e6f2c",
+      "rawTextureUuid": "25c5146f-fcf5-42b6-ac08-5a186a06103c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 849,
+      "height": 518,
+      "rawWidth": 849,
+      "rawHeight": 519,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

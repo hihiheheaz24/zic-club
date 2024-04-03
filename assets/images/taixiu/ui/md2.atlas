@@ -1,0 +1,48 @@
+
+md2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZEUS 2-01
+  rotate: false
+  xy: 1, 1
+  size: 291, 176
+  orig: 292, 177
+  offset: 1, 0
+  index: -1
+xúc xắc 1-01
+  rotate: false
+  xy: 454, 1
+  size: 42, 40
+  orig: 46, 44
+  offset: 1, 0
+  index: -1
+xúc xắc 2-01
+  rotate: false
+  xy: 454, 43
+  size: 40, 41
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+tài xỉu-01
+  rotate: false
+  xy: 1, 179
+  size: 216, 74
+  orig: 217, 74
+  offset: 1, 0
+  index: -1
+md5-01
+  rotate: false
+  xy: 294, 1
+  size: 158, 85
+  orig: 159, 90
+  offset: 1, 0
+  index: -1
+sét-01
+  rotate: false
+  xy: 454, 86
+  size: 40, 32
+  orig: 42, 42
+  offset: 2, 6
+  index: -1

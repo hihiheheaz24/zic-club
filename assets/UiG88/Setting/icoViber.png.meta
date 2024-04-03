@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "15c1e096-058a-4107-9cc6-7d80180a3510",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 122,
+  "height": 45,
+  "platformSettings": {},
+  "subMetas": {
+    "icoViber": {
+      "ver": "1.0.4",
+      "uuid": "ef0037d4-f2f3-4e9f-925a-78c58ca7eed3",
+      "rawTextureUuid": "15c1e096-058a-4107-9cc6-7d80180a3510",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 122,
+      "height": 45,
+      "rawWidth": 122,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

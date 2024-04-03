@@ -1,0 +1,55 @@
+
+ic_bacay.png
+size: 735,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ac
+  rotate: true
+  xy: 398, 87
+  size: 114, 133
+  orig: 120, 138
+  offset: 3, 3
+  index: -1
+Ar
+  rotate: true
+  xy: 533, 95
+  size: 106, 127
+  orig: 109, 132
+  offset: 2, 3
+  index: -1
+At
+  rotate: true
+  xy: 533, 2
+  size: 91, 120
+  orig: 96, 124
+  offset: 2, 2
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 4
+  size: 197, 197
+  orig: 199, 199
+  offset: 1, 1
+  index: -1
+bacay
+  rotate: true
+  xy: 662, 25
+  size: 176, 71
+  orig: 179, 75
+  offset: 2, 2
+  index: -1
+bg
+  rotate: false
+  xy: 201, 6
+  size: 195, 195
+  orig: 197, 197
+  offset: 1, 1
+  index: -1
+vuongmien
+  rotate: false
+  xy: 398, 8
+  size: 96, 77
+  orig: 98, 79
+  offset: 1, 1
+  index: -1

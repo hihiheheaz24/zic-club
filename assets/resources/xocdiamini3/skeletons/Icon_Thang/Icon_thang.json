@@ -1,0 +1,97 @@
+{
+"skeleton": {
+	"hash": "MEe92BDRw2U",
+	"spine": "3.7-from-3.8-from-4.0-from-4.1.17",
+	"x": -154.47,
+	"y": -111.19,
+	"width": 274.03,
+	"height": 217.19,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "THANG", "parent": "root", "x": -1.18, "y": -0.39, "color": "ff0000ff" },
+	{ "name": "chucmung", "parent": "root", "x": -17.7, "y": 0.66, "scaleX": 0.6871, "scaleY": 0.6871 },
+	{ "name": "tienvang", "parent": "root", "x": -24.39, "y": -29.16, "scaleX": 0.3685, "scaleY": 0.3685 }
+],
+"slots": [
+	{ "name": "chucmung", "bone": "chucmung", "attachment": "chucmung" },
+	{ "name": "THANG", "bone": "THANG", "attachment": "THANG" },
+	{ "name": "tienvang", "bone": "tienvang", "attachment": "tienvang" }
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"chucmung": {
+				"color": [
+					{ "color": "ffffff00", "time": 0.0 },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"THANG": {
+				"color": [
+					{ "color": "ffffff00", "time": 0.0 },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2, "color": "ffffffff" },
+					{ "time": 2.3333, "color": "ffffff00" }
+				]
+			},
+			"tienvang": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped", "time": 0.0 },
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.5, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"THANG": {
+				"scale": [
+					{ "x": 1.665, "y": 1.665, "time": 0.0 },
+					{ "time": 0.3333, "curve": "stepped", "x": 1.0, "y": 1.0 },
+					{ "time": 0.5, "x": 1.0, "y": 1.0 },
+					{ "time": 0.8333, "x": 1.286, "y": 1.286 },
+					{ "time": 1.1667, "x": 1.0, "y": 1.0 },
+					{ "time": 1.5, "x": 1.286, "y": 1.286 },
+					{ "time": 1.8333, "x": 1.0, "y": 1.0 }
+				]
+			},
+			"chucmung": {
+				"translate": [
+					{ "x": 13.1, "y": 58.97, "time": 0.0 }
+				],
+				"scale": [
+					{ "x": 0.609, "y": 0.609, "time": 0.0 },
+					{ "time": 1, "x": 2.655, "y": 2.655 }
+				]
+			},
+			"tienvang": {
+				"translate": [
+					{ "time": 0.3333, "x": 23.01, "y": 107.87 }
+				],
+				"scale": [
+					{ "time": 0.3333, "x": 1.926, "y": 1.926 },
+					{ "time": 1, "x": 0.277, "y": 0.277 }
+				]
+			}
+		}
+	}
+},
+"skins": {
+	"default": {
+		"chucmung": {
+			"chucmung": { "x": 0.83, "y": 15.88, "scaleX": 0.5147, "scaleY": 0.5147, "width": 547, "height": 534 }
+		},
+		"THANG": {
+			"THANG": { "x": 0.75, "y": 1.08, "width": 240, "height": 92 }
+		},
+		"tienvang": {
+			"tienvang": { "x": -47.98, "y": 47.39, "width": 610, "height": 540 }
+		}
+	}
+}
+}

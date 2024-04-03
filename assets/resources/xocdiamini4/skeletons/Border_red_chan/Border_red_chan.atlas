@@ -1,0 +1,20 @@
+
+Border_red_chan.png
+size: 517, 214
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+even_border
+  rotate: false
+  xy: 2, 2
+  size: 463, 210
+  orig: 463, 210
+  offset: 0, 0
+  index: -1
+winning_light
+  rotate: true
+  xy: 467, 158
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1

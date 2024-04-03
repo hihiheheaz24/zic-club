@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3a556c7a-e064-4048-a2ef-312975f681d4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1946,
+  "height": 538,
+  "platformSettings": {},
+  "subMetas": {
+    "1999_BanCa_Banner": {
+      "ver": "1.0.4",
+      "uuid": "589a41fd-1bc8-4785-9ed9-92c0abc6d297",
+      "rawTextureUuid": "3a556c7a-e064-4048-a2ef-312975f681d4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1941,
+      "height": 533,
+      "rawWidth": 1946,
+      "rawHeight": 538,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

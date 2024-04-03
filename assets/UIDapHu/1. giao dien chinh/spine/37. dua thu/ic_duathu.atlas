@@ -1,0 +1,97 @@
+
+ic_duathu.png
+size: 779,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 601, 104
+  size: 95, 95
+  orig: 109, 100
+  offset: 7, 0
+  index: -1
+Body
+  rotate: true
+  xy: 398, 63
+  size: 136, 121
+  orig: 136, 121
+  offset: 0, 0
+  index: -1
+EarL
+  rotate: true
+  xy: 698, 165
+  size: 34, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+EarR
+  rotate: true
+  xy: 695, 7
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 695, 42
+  size: 60, 80
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+Head2
+  rotate: true
+  xy: 746, 119
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 197, 197
+  orig: 199, 199
+  offset: 1, 1
+  index: -1
+LegL
+  rotate: true
+  xy: 597, 2
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 521, 72
+  size: 78, 127
+  orig: 78, 127
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 698, 114
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 601, 72
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 201, 4
+  size: 195, 195
+  orig: 197, 197
+  offset: 1, 1
+  index: -1
+duathu2
+  rotate: false
+  xy: 398, 3
+  size: 197, 58
+  orig: 199, 62
+  offset: 1, 2
+  index: -1

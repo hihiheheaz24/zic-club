@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9d3da610-90cd-4054-a6b1-ad7fa05fabd1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 130,
+  "height": 125,
+  "platformSettings": {},
+  "subMetas": {
+    "skull-and-crossbones-30325_1280": {
+      "ver": "1.0.4",
+      "uuid": "c05ed634-ab10-4663-af75-f5ab48101e22",
+      "rawTextureUuid": "9d3da610-90cd-4054-a6b1-ad7fa05fabd1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 130,
+      "height": 125,
+      "rawWidth": 130,
+      "rawHeight": 125,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

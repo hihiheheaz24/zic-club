@@ -1,0 +1,118 @@
+
+bannercam1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+khung2
+  rotate: false
+  xy: 1, 1
+  size: 281, 445
+  orig: 281, 445
+  offset: 0, 0
+  index: -1
+ph1
+  rotate: false
+  xy: 850, 811
+  size: 129, 133
+  orig: 129, 133
+  offset: 0, 0
+  index: -1
+ph2
+  rotate: false
+  xy: 850, 675
+  size: 130, 134
+  orig: 130, 134
+  offset: 0, 0
+  index: -1
+LOGO
+  rotate: false
+  xy: 202, 569
+  size: 218, 138
+  orig: 218, 138
+  offset: 0, 0
+  index: -1
+MO
+  rotate: false
+  xy: 1, 766
+  size: 281, 156
+  orig: 281, 156
+  offset: 0, 0
+  index: -1
+GIRRL
+  rotate: false
+  xy: 1, 448
+  size: 199, 316
+  orig: 199, 316
+  offset: 0, 0
+  index: -1
+BUT
+  rotate: false
+  xy: 202, 448
+  size: 281, 119
+  orig: 281, 119
+  offset: 0, 0
+  index: -1
+TTTTT
+  rotate: false
+  xy: 567, 675
+  size: 281, 104
+  orig: 281, 104
+  offset: 0, 0
+  index: -1
+Comp 1_00002
+  rotate: false
+  xy: 705, 569
+  size: 281, 104
+  orig: 281, 104
+  offset: 0, 0
+  index: -1
+Comp 1_00003
+  rotate: false
+  xy: 567, 781
+  size: 281, 104
+  orig: 281, 104
+  offset: 0, 0
+  index: -1
+Comp 1_00004
+  rotate: false
+  xy: 284, 709
+  size: 281, 104
+  orig: 281, 104
+  offset: 0, 0
+  index: -1
+Comp 1_00005
+  rotate: false
+  xy: 567, 887
+  size: 281, 104
+  orig: 281, 104
+  offset: 0, 0
+  index: -1
+Comp 1_00006
+  rotate: false
+  xy: 485, 107
+  size: 281, 104
+  orig: 281, 104
+  offset: 0, 0
+  index: -1
+Comp 1_00007
+  rotate: false
+  xy: 284, 815
+  size: 281, 104
+  orig: 281, 104
+  offset: 0, 0
+  index: -1
+Comp 1_00008
+  rotate: false
+  xy: 485, 1
+  size: 281, 104
+  orig: 281, 104
+  offset: 0, 0
+  index: -1
+Comp 1_00009
+  rotate: false
+  xy: 422, 569
+  size: 281, 104
+  orig: 281, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d0d8057d-b1fe-4b31-99bd-3cd282a56858",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 50,
+  "height": 40,
+  "platformSettings": {},
+  "subMetas": {
+    "icChatIngame": {
+      "ver": "1.0.4",
+      "uuid": "562d9876-7f10-4c6e-b60b-0a63aae6a723",
+      "rawTextureUuid": "d0d8057d-b1fe-4b31-99bd-3cd282a56858",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 50,
+      "height": 40,
+      "rawWidth": 50,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

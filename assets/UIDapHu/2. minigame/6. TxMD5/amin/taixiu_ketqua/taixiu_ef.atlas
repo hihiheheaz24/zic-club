@@ -1,0 +1,41 @@
+
+taixiu_ef.png
+size: 735,574
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: true
+  xy: 2, 2
+  size: 570, 575
+  orig: 573, 577
+  offset: 2, 1
+  index: -1
+as copy
+  rotate: false
+  xy: 579, 358
+  size: 154, 214
+  orig: 155, 214
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 579, 227
+  size: 126, 129
+  orig: 152, 152
+  offset: 13, 15
+  index: -1
+tai1
+  rotate: false
+  xy: 579, 27
+  size: 121, 77
+  orig: 121, 77
+  offset: 0, 0
+  index: -1
+xiu1
+  rotate: true
+  xy: 579, 106
+  size: 119, 84
+  orig: 119, 84
+  offset: 0, 0
+  index: -1

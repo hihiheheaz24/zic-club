@@ -1,0 +1,174 @@
+
+rua.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 4
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 118, 57
+  size: 97, 63
+  orig: 97, 63
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: false
+  xy: 217, 54
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00002
+  rotate: false
+  xy: 118, 24
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00003
+  rotate: false
+  xy: 305, 89
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00004
+  rotate: false
+  xy: 305, 56
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00005
+  rotate: false
+  xy: 400, 89
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00007
+  rotate: false
+  xy: 400, 56
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00009
+  rotate: false
+  xy: 495, 89
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00011
+  rotate: false
+  xy: 495, 56
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00013
+  rotate: false
+  xy: 590, 89
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00015
+  rotate: false
+  xy: 590, 56
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00017
+  rotate: false
+  xy: 685, 89
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00019
+  rotate: false
+  xy: 685, 56
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Fx/Comp 1_00021
+  rotate: false
+  xy: 780, 89
+  size: 93, 31
+  orig: 93, 31
+  offset: 0, 0
+  index: -1
+Head_Turtle
+  rotate: false
+  xy: 916, 93
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Head_Turtle_B
+  rotate: false
+  xy: 118, 3
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+Leg1
+  rotate: true
+  xy: 780, 52
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Leg1_B
+  rotate: false
+  xy: 154, 2
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Leg2
+  rotate: false
+  xy: 953, 95
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Leg3
+  rotate: true
+  xy: 875, 95
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 827, 59
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Tail_L
+  rotate: false
+  xy: 183, 4
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 985, 105
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1

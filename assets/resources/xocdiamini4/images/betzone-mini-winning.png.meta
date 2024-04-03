@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "745dd681-1ea9-4007-abf0-db0365cec509",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 138,
+  "height": 106,
+  "platformSettings": {},
+  "subMetas": {
+    "betzone-mini-winning": {
+      "ver": "1.0.4",
+      "uuid": "2334a8d9-ee20-49ab-9ce8-e7175ce86bfe",
+      "rawTextureUuid": "745dd681-1ea9-4007-abf0-db0365cec509",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 138,
+      "height": 106,
+      "rawWidth": 138,
+      "rawHeight": 106,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
