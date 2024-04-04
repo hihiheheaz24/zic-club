@@ -7,7 +7,7 @@
     cc.TaiXiuHistoryItem = cc.Class({
         "extends": cc.Component,
         properties: {
-            // nodeBG: cc.Node,
+            nodeBG: cc.Node,
 
             lbSession: cc.Label,
             lbTime: cc.Label,
@@ -20,10 +20,10 @@
         },
 
         updateItem: function(item, itemID) {
-            // this.nodeBG.active = itemID % 2 !== 0;
-            this.lbSession.string = item.SessionID;
+            this.nodeBG.active = itemID % 2 !== 0;
+            this.lbSession.string = "#" + item.SessionID;
             this.lbTime.string = cc.Tool.getInstance().convertUTCTime(item.CreateTime);
-            this.lbSide.string = item.BetSide === cc.TaiXiuBetSide.TAI ? 'Tài' : 'Xỉu';
+            this.lbSide.string = item.BetSide === cc.TaiXiuBetSide.TAI ? 'TÀI' : 'XỈU';
 
             this.lbBet.string = cc.Tool.getInstance().formatNumber(item.Bet);
 			
@@ -37,7 +37,7 @@
 			
 			
 			if (item.Award > 0){
-				this.lbWin.node.color = cc.color(0, 255, 0, 255)
+				this.lbWin.node.color = cc.color(252, 193, 0, 255)
 				var tongtiennhan = cc.Tool.getInstance().formatNumber(item.Award+item.Refund);
 				this.lbWin.string = '+'+cc.Tool.getInstance().formatNumber(item.Award);
 				this.lbResult.string = item.Result;

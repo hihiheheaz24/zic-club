@@ -50,14 +50,22 @@
         setIcon: function (indexIcon, iconId) {
             switch (iconId) {
                 case 1:
-                case 2:
-                case 3:
-                case 4:
                     this.skeletonIcons[indexIcon].node.active = true;
                     this.spriteIcons[indexIcon].node.active = false;
 
                     this.skeletonIcons[indexIcon].skeletonData = this.skeletonDataIcons[iconId - 1];
-                    this.skeletonIcons[indexIcon].setAnimation(0, 'Idle', true);
+                    this.skeletonIcons[indexIcon].setAnimation(0, 'with_frame', true);
+                    break;
+                case 2:
+                case 3:
+                case 4:
+                case 5:
+                case 7:
+                    this.skeletonIcons[indexIcon].node.active = true;
+                    this.spriteIcons[indexIcon].node.active = false;
+
+                    this.skeletonIcons[indexIcon].skeletonData = this.skeletonDataIcons[iconId - 1];
+                    this.skeletonIcons[indexIcon].setAnimation(0, 'animation', true);
                     break;
                 default:
                     this.skeletonIcons[indexIcon].node.active = false;

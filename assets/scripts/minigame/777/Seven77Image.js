@@ -10,7 +10,7 @@
 
             sfFastSpins: [cc.SpriteFrame],
             sfAutoSpins: [cc.SpriteFrame],
-            sfSpins: [cc.SpriteFrame],
+            // sfSpins: [cc.SpriteFrame],
         },
     });
 }).call(this);

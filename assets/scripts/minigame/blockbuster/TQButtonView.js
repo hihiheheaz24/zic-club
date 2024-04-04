@@ -10,10 +10,10 @@ var gameMessage = require('GameMessage');
         properties: {
             tqImage: cc.TQImage, //chua spriteFrame
 
-            btn1000: cc.Button,
+            btn1000: cc.Toggle,
             btn2000: cc.Button,
-            btn5000: cc.Button,
-            btn10000: cc.Button,
+            btn5000: cc.Toggle,
+            btn10000: cc.Toggle,
             btn30000: cc.Button,
             // btn100000: cc.Button,
 
@@ -30,18 +30,18 @@ var gameMessage = require('GameMessage');
 
             this.betValues = [1000, 2000, 5000, 10000, 30000, 50000, 100000];
 
-            this.sprite1000 = this.btn1000.node.getComponentInChildren(cc.Sprite);
-            this.sprite2000 = this.btn2000.node.getComponentInChildren(cc.Sprite);
-            this.sprite5000 = this.btn5000.node.getComponentInChildren(cc.Sprite);
-            this.sprite10000 = this.btn10000.node.getComponentInChildren(cc.Sprite);
-            this.sprite30000 = this.btn30000.node.getComponentInChildren(cc.Sprite);
+            // this.sprite1000 = this.btn1000.node.getComponentInChildren(cc.Sprite);
+            // this.sprite2000 = this.btn2000.node.getComponentInChildren(cc.Sprite);
+            // this.sprite5000 = this.btn5000.node.getComponentInChildren(cc.Sprite);
+            // this.sprite10000 = this.btn10000.node.getComponentInChildren(cc.Sprite);
+            // this.sprite30000 = this.btn30000.node.getComponentInChildren(cc.Sprite);
             // this.sprite100000 = this.btn100000.node.getComponentInChildren(cc.Sprite);
 
-            this.lb1000 = this.btn1000.node.getComponentInChildren(cc.Label);
-            this.lb2000 = this.btn2000.node.getComponentInChildren(cc.Label);
-            this.lb5000 = this.btn5000.node.getComponentInChildren(cc.Label);
-            this.lb10000 = this.btn10000.node.getComponentInChildren(cc.Label);
-            this.lb30000 = this.btn30000.node.getComponentInChildren(cc.Label);
+            // this.lb1000 = this.btn1000.node.getComponentInChildren(cc.Label);
+            // this.lb2000 = this.btn2000.node.getComponentInChildren(cc.Label);
+            // this.lb5000 = this.btn5000.node.getComponentInChildren(cc.Label);
+            // this.lb10000 = this.btn10000.node.getComponentInChildren(cc.Label);
+            // this.lb30000 = this.btn30000.node.getComponentInChildren(cc.Label);
             // this.lb100000 = this.btn100000.node.getComponentInChildren(cc.Label);
 
             this.spriteFastSpin = this.btnFastSpin.node.getComponent(cc.Sprite);
@@ -71,7 +71,7 @@ var gameMessage = require('GameMessage');
         },
 
         activateButton: function (enable) {
-            this.spriteSpin.spriteFrame = enable ? this.tqImage.sfSpins[0] : this.tqImage.sfSpins[1];
+            // this.spriteSpin.spriteFrame = enable ? this.tqImage.sfSpins[0] : this.tqImage.sfSpins[1];
 
             this.btnSpin.interactable = enable;
 
@@ -83,34 +83,34 @@ var gameMessage = require('GameMessage');
         },
 
         processUIByRoomId: function () {
-            this.sprite1000.spriteFrame = this.tqImage.sfChips[1];
-            this.sprite2000.spriteFrame = this.tqImage.sfChips[1];
-            this.sprite5000.spriteFrame = this.tqImage.sfChips[1];
-            this.sprite10000.spriteFrame = this.tqImage.sfChips[1];
-            this.sprite30000.spriteFrame = this.tqImage.sfVipChips[1];
+            // this.sprite1000.spriteFrame = this.tqImage.sfChips[1];
+            // this.sprite2000.spriteFrame = this.tqImage.sfChips[1];
+            // this.sprite5000.spriteFrame = this.tqImage.sfChips[1];
+            // this.sprite10000.spriteFrame = this.tqImage.sfChips[1];
+            // this.sprite30000.spriteFrame = this.tqImage.sfVipChips[1];
             // this.sprite100000.spriteFrame = this.tqImage.sfVipChips[1];
-            switch (this.roomId) {
-                case cc.TQRoomId.Room_1000:
-                    this.sprite1000.spriteFrame = this.tqImage.sfChips[0];
-                    break;
-                case cc.TQRoomId.Room_2000:
-                    this.sprite2000.spriteFrame = this.tqImage.sfChips[0];
-                    break;
-                case cc.TQRoomId.Room_5000:
-                    this.sprite5000.spriteFrame = this.tqImage.sfChips[0];
-                    break;
-                case cc.TQRoomId.Room_10000:
-                    this.sprite10000.spriteFrame = this.tqImage.sfChips[0];
-                    break;
-                case cc.TQRoomId.Room_30000:
-                    this.sprite30000.spriteFrame = this.tqImage.sfVipChips[0];
-                    break;
-                case cc.TQRoomId.Room_50000:
-                    break;
-                case cc.TQRoomId.Room_100000:
-                    // this.sprite100000.spriteFrame = this.tqImage.sfVipChips[0];
-                    break;
-            }
+            // switch (this.roomId) {
+            //     case cc.TQRoomId.Room_1000:
+            //         this.sprite1000.spriteFrame = this.tqImage.sfChips[0];
+            //         break;
+            //     case cc.TQRoomId.Room_2000:
+            //         this.sprite2000.spriteFrame = this.tqImage.sfChips[0];
+            //         break;
+            //     case cc.TQRoomId.Room_5000:
+            //         this.sprite5000.spriteFrame = this.tqImage.sfChips[0];
+            //         break;
+            //     case cc.TQRoomId.Room_10000:
+            //         this.sprite10000.spriteFrame = this.tqImage.sfChips[0];
+            //         break;
+            //     case cc.TQRoomId.Room_30000:
+            //         this.sprite30000.spriteFrame = this.tqImage.sfVipChips[0];
+            //         break;
+            //     case cc.TQRoomId.Room_50000:
+            //         break;
+            //     case cc.TQRoomId.Room_100000:
+            //         // this.sprite100000.spriteFrame = this.tqImage.sfVipChips[0];
+            //         break;
+            // }
         },
 
         getBetValue: function () {

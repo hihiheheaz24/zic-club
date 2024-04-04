@@ -36,6 +36,8 @@
       chip100000000: cc.SpriteFrame,
       chip150000000: cc.SpriteFrame,
       chip200000000: cc.SpriteFrame,
+      nodeGroupBotBet : cc.Node,
+      lblBotNames : [cc.Label],
       heightChip: {
         type: cc.Float,
         default: 2.182,
@@ -238,8 +240,8 @@
                           return this.ignoreBot = i,
                           void (this.id2 = setTimeout(function() {
                               var e = Math.floor(Math.random() * (this.sprBotAvatars.length - 0 + 1) + 0);
-                              this.nodeBots[this.ignoreBot].getComponentInChildren("Avatar").setAvatar(this.sprBotAvatars[e]),
-                              this.nodeBots[this.ignoreBot].getComponentInChildren("LabelIncrement").setValue(Math.floor(Math.random() * (25e6 + 1) + 5e7)),
+                              // this.nodeBots[this.ignoreBot].getComponentInChildren("Avatar").setAvatar(this.sprBotAvatars[e]),
+                              // this.nodeBots[this.ignoreBot].getComponentInChildren("LabelIncrement").setValue(Math.floor(Math.random() * (25e6 + 1) + 5e7)),
                               this.ignoreBot = -1,
                               clearTimeout(this.id2)
                           }
@@ -255,7 +257,7 @@
           this.nodeBots[this.sttBot].getComponentInChildren("LabelIncrement").setValue(Math.floor(Math.random() * (25e6 + 1) + 5e7));
           var t = ["gintama202", "johnwick65", "sadboiz", "racingboiz", "vuataixiu11", "daika88", "icd25", "xzct52", "wanganhvippro", "yugioh", "konkac18", "myquene9", "phattonhulai", "5hand5", "linhxinhgai", "yeumoiemthoi77", "choitaoah58", "batbaijjk", "dwwgmakerx", "zzVIPzz", "narutool"]
             , i = t[Math.floor(Math.random() * t.length)];
-          this.lblBotNames[this.sttBot].string = i,
+          // this.lblBotNames[this.sttBot].string = i,
           this.sttBot++,
           this.startJoinRoom()
       }

@@ -70,7 +70,7 @@ var gameMessage = require('GameMessage');
         },
 
         activateButton: function (enable) {
-            this.spriteSpin.spriteFrame = enable ? this.seven77Image.sfSpins[0] : this.seven77Image.sfSpins[1];
+            // this.spriteSpin.spriteFrame = enable ? this.seven77Image.sfSpins[0] : this.seven77Image.sfSpins[1];
 
             this.btnSpin.interactable = enable;
             this.btnSelectLines.interactable = enable;

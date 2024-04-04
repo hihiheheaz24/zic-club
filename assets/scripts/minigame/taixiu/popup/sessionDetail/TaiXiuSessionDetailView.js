@@ -12,14 +12,14 @@
             xiuSessionDetailListView: cc.TaiXiuSessionDetailListView,
 
             lbSessionID: cc.Label,
-            nodeTai: cc.Node,
-            nodeXiu: cc.Node,
+            // nodeTai: cc.Node,
+            // nodeXiu: cc.Node,
 
             nodeEffectTais: [cc.Node],
             nodeEffectXius: [cc.Node],
 
-            lbTai: cc.Label,
-            lbXiu: cc.Label,
+            // lbTai: cc.Label,
+            // lbXiu: cc.Label,
 			lblTotalDice: cc.Label,
 
             spriteDice1: cc.Sprite,
@@ -80,14 +80,20 @@
                 + cc.Tool.getInstance().convertUTCTime3(game.CreatedDate);
 
             //Gan label tong dice
+            // if (game.DiceSum > 10) {
+            //     var isTai = true;
+            //     this.lbTai.string = game.DiceSum + " = ";
+            //     this.lbXiu.string = '';
+            // } else {
+            //     isTai = false;
+            //     this.lbXiu.string = " = " + game.DiceSum;
+            //     this.lbTai.string = '';
+            // }
+
             if (game.DiceSum > 10) {
                 var isTai = true;
-                this.lbTai.string = game.DiceSum + " = ";
-                this.lbXiu.string = '';
             } else {
                 isTai = false;
-                this.lbXiu.string = " = " + game.DiceSum;
-                this.lbTai.string = '';
             }
 
             //Tat bat effect node Tai/Xiu

@@ -34,7 +34,7 @@
             //set gia tri
             this.lbRemainJackpots.forEach(function (lbJackpot) {
                 if (lbJackpot) {
-                    lbJackpot.string = 'CÒN 0 HŨ';
+                    lbJackpot.string = '0 HŨ';
                 }
             });
 
@@ -56,7 +56,7 @@
                     }
 
                     if (self.lbRemainJackpots[roomIDConvert - 1] !== null && self.lbRemainJackpots[roomIDConvert - 1] !== undefined) {
-                        self.lbRemainJackpots[roomIDConvert - 1].string = 'CÒN ' + xJackpot.JackpotRemainInDay + ' HŨ';
+                        self.lbRemainJackpots[roomIDConvert - 1].string = xJackpot.JackpotRemainInDay + ' HŨ';
                         xHu = true;
                     }
                     if (xJackpot.Multiplier > multiplier) {

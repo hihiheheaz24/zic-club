@@ -7,216 +7,51 @@
     cc.TaiXiuTopItem = cc.Class({
         "extends": cc.Component,
         properties: {
-            // nodeBG: cc.Node,
-
+            nodeBG: cc.Node,
             lbRank: cc.Label,
-            //lbSID: cc.Label,
             lbNickName: cc.Label,
             lbTotalWin: cc.Label,
             rankSprite1: cc.Sprite,
             rankSprite2: cc.Sprite,
             rankSprite3: cc.Sprite,
-			thuongtop1: cc.Node,
-			thuongtop2: cc.Node,
-			thuongtop3: cc.Node,
-			thuongtop4: cc.Node,
-			thuongtop5: cc.Node,
-			thuongtop6: cc.Node,
-			thuongtop7: cc.Node,
-			thuongtop8: cc.Node,
-			thuongtop9: cc.Node,
-			thuongtop10: cc.Node,
-            fontRegurlar: cc.Font,
-            fontBold: cc.Font,
         },
 
         updateItem: function (item, itemID) {
-            // this.nodeBG.active = itemID % 2 !== 0;
-            var color = cc.Color.WHITE;
-            if (itemID < 6) {
-                this.lbRank.node.active = false;
-                this.lbNickName.font = this.fontBold;
-                //this.lbTotalWin.font = this.fontBold;
-                if (itemID == 0) {
-                    this.rankSprite1.node.active = true;
-					this.thuongtop1.active = true;
-					this.thuongtop2.active = false;
-					this.thuongtop3.active = false;
-					this.thuongtop4.active = false;
-					this.thuongtop5.active = false;
-					this.thuongtop6.active = false;
-					this.thuongtop7.active = false;
-                    this.thuongtop8.active = false;
-                    this.thuongtop9.active = false;
-                    this.thuongtop10.active = false;
-                    this.rankSprite2.node.active = false;
-                    this.rankSprite3.node.active = false;
-                    this.lbNickName.node.color = color.fromHEX("#FF0000");
-                   // this.lbTotalWin.node.color = color.fromHEX("#EA21E4");
-                } else if (itemID == 1) {
-					this.thuongtop1.active = false;
-					this.thuongtop2.active = true;
-					this.thuongtop3.active = false;
-					this.thuongtop4.active = false;
-					this.thuongtop5.active = false;
-					this.thuongtop6.active = false;
-					this.thuongtop7.active = false;
-                    this.thuongtop8.active = false;
-                    this.thuongtop9.active = false;
-                    this.thuongtop10.active = false;
-                    this.rankSprite1.node.active = false;
-                    this.rankSprite2.node.active = true;
-                    this.rankSprite3.node.active = false;
-                    this.lbNickName.node.color = color.fromHEX("#FFFF00");
-                   // this.lbTotalWin.node.color = color.fromHEX("#27C7F4");
-                } else if (itemID == 2) {
-					this.thuongtop1.active = false;
-					this.thuongtop2.active = false;
-					this.thuongtop3.active = true;
-					this.thuongtop4.active = false;
-					this.thuongtop5.active = false;
-					this.thuongtop6.active = false;
-					this.thuongtop7.active = false;
-                    this.thuongtop8.active = false;
-                    this.thuongtop9.active = false;
-                    this.thuongtop10.active = false;
-                    this.rankSprite1.node.active = false;
-                    this.rankSprite2.node.active = false;
-                    this.rankSprite3.node.active = true;
-                    this.lbNickName.node.color = color.fromHEX("#5BF513");
-                   // this.lbTotalWin.node.color = color.fromHEX("#27C7F4");
-                }else if (itemID == 3) {
-					this.thuongtop1.active = false;
-					this.thuongtop2.active = false;
-					this.thuongtop3.active = false;
-					this.thuongtop4.active = true;
-					this.thuongtop5.active = false;
-					 this.lbRank.string = itemID + 1;
-                    this.lbRank.node.active = true;
-					this.thuongtop6.active = false;
-					this.thuongtop7.active = false;
-                    this.thuongtop8.active = false;
-                    this.thuongtop9.active = false;
-                    this.thuongtop10.active = false;
-                    this.rankSprite1.node.active = false;
-                    this.rankSprite2.node.active = false;
-                    this.rankSprite3.node.active = false;
-                    this.lbNickName.node.color = color.fromHEX("#0178F8");
-                   // this.lbTotalWin.node.color = color.fromHEX("#27C7F4");
-                }else if (itemID == 4) {
-					this.thuongtop1.active = false;
-					this.thuongtop2.active = false;
-					this.thuongtop3.active = false;
-					this.thuongtop4.active = false;
-					this.thuongtop5.active = true;
-					this.lbRank.string = itemID + 1;
-                    this.lbRank.node.active = true;
-					this.thuongtop6.active = false;
-					this.thuongtop7.active = false;
-                    this.thuongtop8.active = false;
-                    this.thuongtop9.active = false;
-                    this.thuongtop10.active = false;
-                    this.rankSprite1.node.active = false;
-                    this.rankSprite2.node.active = false;
-                    this.rankSprite3.node.active = false;
-                    this.lbNickName.node.color = color.fromHEX("#FF800B");
-                   // this.lbTotalWin.node.color = color.fromHEX("#27C7F4");
-                }else {
-					this.thuongtop1.active = false;
-					this.thuongtop2.active = false;
-					this.thuongtop3.active = false;
-					this.thuongtop4.active = false;
-					this.thuongtop5.active = false;
-					this.thuongtop6.active = true;
-					this.lbRank.string = itemID + 1;
-                    this.lbRank.node.active = true;
-					this.thuongtop7.active = false;
-                    this.thuongtop8.active = false;
-                    this.thuongtop9.active = false;
-                    this.thuongtop10.active = false;
-                    this.rankSprite1.node.active = false;
-                    this.rankSprite2.node.active = false;
-                    this.rankSprite3.node.active = false;
-                    this.lbNickName.node.color = color.fromHEX("#5E4BA8");
-                   // this.lbTotalWin.node.color = color.fromHEX("#27C7F4");
-                }
-            } else {
-               // this.lbNickName.node.color = cc.Color.WHITE;
-               // this.lbTotalWin.node.color = color.fromHEX("#FF9800");
-               // this.lbNickName.font = this.fontRegurlar;
-                //this.lbTotalWin.font = this.fontRegurlar;
-                if (itemID == 6) {
-                    this.thuongtop7.active = true;
-                    this.thuongtop8.active = false;
-                    this.thuongtop9.active = false;
-                    this.thuongtop10.active = false;                    
-                    this.thuongtop4.active = false;
-                    this.thuongtop5.active = false;
-                    this.thuongtop6.active = false;
-                    this.thuongtop1.active = false;
-                    this.thuongtop2.active = false;
-                    this.thuongtop3.active = false;
-                    this.lbRank.string = itemID + 1;
-                    this.lbRank.node.active = true;
-                    this.rankSprite1.node.active = false;
-                    this.rankSprite2.node.active = false;
-                    this.rankSprite3.node.active = false;
-                }else if(itemID == 7){
-                    this.thuongtop7.active = false;
-                    this.thuongtop8.active = true;
-                    this.thuongtop9.active = false;
-                    this.thuongtop10.active = false;                    
-                    this.thuongtop4.active = false;
-                    this.thuongtop5.active = false;
-                    this.thuongtop6.active = false;
-                    this.thuongtop1.active = false;
-                    this.thuongtop2.active = false;
-                    this.thuongtop3.active = false;
-                    this.lbRank.string = itemID + 1;
-                    this.lbRank.node.active = true;
-                    this.rankSprite1.node.active = false;
-                    this.rankSprite2.node.active = false;
-                    this.rankSprite3.node.active = false;
-                }else if(itemID == 8){
-                    this.thuongtop7.active = false;
-                    this.thuongtop8.active = false;
-                    this.thuongtop9.active = true;
-                    this.thuongtop10.active = false;                    
-                    this.thuongtop4.active = false;
-                    this.thuongtop5.active = false;
-                    this.thuongtop6.active = false;
-                    this.thuongtop1.active = false;
-                    this.thuongtop2.active = false;
-                    this.thuongtop3.active = false;
-                    this.lbRank.string = itemID + 1;
-                    this.lbRank.node.active = true;
-                    this.rankSprite1.node.active = false;
-                    this.rankSprite2.node.active = false;
-                    this.rankSprite3.node.active = false;
-                }else{
-                    this.thuongtop7.active = false;
-                    this.thuongtop8.active = false;
-                    this.thuongtop9.active = false;
-                    this.thuongtop10.active = true;                    
-                    this.thuongtop4.active = false;
-                    this.thuongtop5.active = false;
-                    this.thuongtop6.active = false;
-                    this.thuongtop1.active = false;
-                    this.thuongtop2.active = false;
-                    this.thuongtop3.active = false;
-                    this.lbRank.string = itemID + 1;
-                    this.lbRank.node.active = true;
-                    this.rankSprite1.node.active = false;
-                    this.rankSprite2.node.active = false;
-                    this.rankSprite3.node.active = false;
-                }
-            }
-            //this.lbSID.string = cc.Config.getInstance().getServiceNameNoFormat(item.ServiceID);
+            this.nodeBG.active = itemID % 2 !== 0;
             this.lbNickName.string = item.UserName;
             this.lbTotalWin.string = cc.Tool.getInstance().formatNumber(item.Award);
-
+            this.lbRank.string = itemID + 1;
             this.item = item;
             this.itemID = itemID;
+
+            this.lbRank.node.active = false;
+            this.rankSprite1.node.active = false;
+            this.rankSprite2.node.active = false;
+            this.rankSprite3.node.active = false;
+
+
+            switch (itemID) {
+                case 0:
+                    this.rankSprite1.node.active = true;
+                    this.lbNickName.node.color = cc.color(252, 193, 0, 255);
+                    this.lbTotalWin.node.color = cc.color(252, 193, 0, 255);
+                    break;
+                case 2:
+                    this.rankSprite2.node.active = true;
+                    this.lbNickName.node.color = cc.color(50, 231, 255, 255);
+                    this.lbTotalWin.node.color = cc.color(50, 231, 255, 255);
+                    break;
+                case 3:
+                    this.rankSprite3.node.active = true;
+                    this.lbNickName.node.color = cc.color(248, 109, 0, 255);
+                    this.lbTotalWin.node.color = cc.color(248, 109, 0, 255);
+                    break;
+                default:
+                    this.lbRank.node.active = true;
+                    this.lbNickName.node.color = cc.color(252, 255, 255, 255);
+                    this.lbTotalWin.node.color = cc.color(252, 255, 255, 255);
+                    break;
+            }
         },
     });
 }).call(this);
