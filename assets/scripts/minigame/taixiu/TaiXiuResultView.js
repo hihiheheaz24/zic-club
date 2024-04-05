@@ -41,7 +41,7 @@ var taiXiuConfig = require('TaiXiuConfig');
             nodeTai: cc.Node,
             nodeXiu: cc.Node,
 			rollDice: cc.AudioSource,
-			Jackpot: cc.Node,
+			// Jackpot: cc.Node,
             dragonEffect: cc.Node,
             //spriteFrame 6 dice
            
@@ -75,7 +75,7 @@ var taiXiuConfig = require('TaiXiuConfig');
             this.nodeResult.active = false;
             this.nodeResultDice.active = false;
             this.nodeBowl.active = false;
-			this.Jackpot.getComponent(sp.Skeleton).setAnimation(0,'JP idle',false);
+			// this.Jackpot.getComponent(sp.Skeleton).setAnimation(0,'JP idle',false);
 			this.nodeBGTimer.active = false;
            // this.nodeDiceAnim.active = false;
             this.xnAnimationplay.active = false;
@@ -273,14 +273,14 @@ var taiXiuConfig = require('TaiXiuConfig');
             }
         },
 		SetJackpot:function(){
-            this.Jackpot.active = true;
-            this.Jackpot.getComponent(sp.Skeleton).setAnimation(0,'JP no hu',true);
+            // this.Jackpot.active = true;
+            // this.Jackpot.getComponent(sp.Skeleton).setAnimation(0,'JP no hu',true);
             this.dragonEffect.active = true;
             this.node.runAction(
                 cc.sequence(
                     cc.delayTime(7),
                     cc.callFunc(function () {
-                        this.Jackpot.getComponent(sp.Skeleton).setAnimation(0,'JP idle',false);
+                        // this.Jackpot.getComponent(sp.Skeleton).setAnimation(0,'JP idle',false);
                         this.dragonEffect.active = false;
                     }.bind(this)
                 )

@@ -7,6 +7,7 @@
     cc.TaiXiuSieuTocSessionDetailItem = cc.Class({
         "extends": cc.Component,
         properties: {
+            nodeBG: cc.Node,
             lbTime: cc.Label,
             //lbSID: cc.Label,
             lbNickName: cc.Label,
@@ -15,6 +16,7 @@
         },
 
         updateItem: function(item, itemID) {
+            this.nodeBG.active = itemID % 2 !== 0;
             this.lbTime.string = cc.Tool.getInstance().convertUTCTime2(item.CreateTime);
            // this.lbSID.string = cc.Config.getInstance().getServiceNameNoFormat(item.ServiceID);
             this.lbNickName.string = item.UserName;

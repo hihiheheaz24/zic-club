@@ -12,20 +12,20 @@
             xiuSessionDetailListView: cc.TaiXiuMd5SessionDetailListView,
 
             lbSessionID: cc.Label,
-            nodeTai: cc.Node,
-            nodeXiu: cc.Node,
+            // nodeTai: cc.Node,
+            // nodeXiu: cc.Node,
 			lblTotalDice: cc.Label,
 			lblMd5Hash: cc.Label,
 			lblResult: cc.Label,
 			lblTextNotiNewGame: cc.Label,
-			lblTotalUserBetTai: cc.Label,
-			lblTotalUserBetXiu: cc.Label,
+			// lblTotalUserBetTai: cc.Label,
+			// lblTotalUserBetXiu: cc.Label,
 
             nodeEffectTais: [cc.Node],
             nodeEffectXius: [cc.Node],
 
-            lbTai: cc.Label,
-            lbXiu: cc.Label,
+            // lbTai: cc.Label,
+            // lbXiu: cc.Label,
 
             spriteDice1: cc.Sprite,
             spriteDice2: cc.Sprite,
@@ -86,14 +86,21 @@
                 + cc.Tool.getInstance().convertUTCTime3(game.CreatedDate);
 
             //Gan label tong dice
+            // if (game.DiceSum > 10) {
+            //     var isTai = true;
+            //     this.lbTai.string = game.DiceSum + " = ";
+            //     this.lbXiu.string = '';
+            // } else {
+            //     isTai = false;
+            //     this.lbXiu.string = " = " + game.DiceSum;
+            //     this.lbTai.string = '';
+            // }
+
+            var isTai = true;
             if (game.DiceSum > 10) {
-                var isTai = true;
-                this.lbTai.string = game.DiceSum + " = ";
-                this.lbXiu.string = '';
+                isTai = true;
             } else {
-                isTai = false;
-                this.lbXiu.string = " = " + game.DiceSum;
-                this.lbTai.string = '';
+                isTai = false
             }
 
             //Tat bat effect node Tai/Xiu
@@ -123,8 +130,8 @@
         onTXGetResultSessionInfoResponse: function (result) {
             this.lblMd5Hash.string = result[0].Md5Encrypt;
             this.lblResult.string = result[0].Md5Decrypt;
-            this.lblTotalUserBetTai.string = result[0].TotalAccountEven;
-            this.lblTotalUserBetXiu.string = result[0].TotalAccountOdd;
+            // this.lblTotalUserBetTai.string = result[0].TotalAccountEven;
+            // this.lblTotalUserBetXiu.string = result[0].TotalAccountOdd;
         },		
 
         onTXGetSessionInfoResponse: function (response) {

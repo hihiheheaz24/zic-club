@@ -184,7 +184,7 @@ var helper = require('Helper');
                     break;
                 case cc.TaiXiuState.RESULT: //15
 					this.lbTimer.string = time;
-                    this.lbBigTimer.node.color = cc.Color.WHITE;
+                    // this.lbBigTimer.node.color = cc.Color.WHITE;
                     this.lbBigTimer.string = time;
                     //this.nodeTornado.active = false;
                     this.elapsedTime = 0;
@@ -199,7 +199,7 @@ var helper = require('Helper');
 
                 case cc.TaiXiuState.PREPARE_NEW_SESSION:
 					this.lbTimer.string = time;
-                    this.lbBigTimer.node.color = cc.Color.WHITE;
+                    // this.lbBigTimer.node.color = cc.Color.WHITE;
                     if (time === 1){
 						
                         this.lbBigTimer.string = 50;

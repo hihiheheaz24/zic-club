@@ -15,17 +15,17 @@
             nodeTai: cc.Node,
             nodeXiu: cc.Node,
 			lblTotalDice: cc.Label,
-			lblSieuTocHash: cc.Label,
-			lblResult: cc.Label,
-			lblTextNotiNewGame: cc.Label,
-			lblTotalUserBetTai: cc.Label,
-			lblTotalUserBetXiu: cc.Label,
+			// lblSieuTocHash: cc.Label,
+			// lblResult: cc.Label,
+			// lblTextNotiNewGame: cc.Label,
+			// lblTotalUserBetTai: cc.Label,
+			// lblTotalUserBetXiu: cc.Label,
 
             nodeEffectTais: [cc.Node],
             nodeEffectXius: [cc.Node],
 
-            lbTai: cc.Label,
-            lbXiu: cc.Label,
+            // lbTai: cc.Label,
+            // lbXiu: cc.Label,
 
             spriteDice1: cc.Sprite,
             spriteDice2: cc.Sprite,
@@ -47,7 +47,7 @@
         onLoad: function () {
             this.animation = this.node.getComponent(cc.Animation);
             this.node.zIndex = cc.NoteDepth.POPUP_TAIXIU_SIEUTOC;
-			this.animationMess = this.lblTextNotiNewGame.node.parent.getComponent(cc.Animation);
+			// this.animationMess = this.lblTextNotiNewGame.node.parent.getComponent(cc.Animation);
         },
 
         onEnable: function () {
@@ -86,14 +86,21 @@
                 + cc.Tool.getInstance().convertUTCTime3(game.CreatedDate);
 
             //Gan label tong dice
+            // if (game.DiceSum > 10) {
+            //     var isTai = true;
+            //     this.lbTai.string = game.DiceSum + " = ";
+            //     this.lbXiu.string = '';
+            // } else {
+            //     isTai = false;
+            //     this.lbXiu.string = " = " + game.DiceSum;
+            //     this.lbTai.string = '';
+            // }
+
+            var isTai = true;
             if (game.DiceSum > 10) {
-                var isTai = true;
-                this.lbTai.string = game.DiceSum + " = ";
-                this.lbXiu.string = '';
+                isTai = true;
             } else {
                 isTai = false;
-                this.lbXiu.string = " = " + game.DiceSum;
-                this.lbTai.string = '';
             }
 
             //Tat bat effect node Tai/Xiu
@@ -121,10 +128,10 @@
         },
 
         onTXGetResultSessionInfoResponse: function (result) {
-            this.lblSieuTocHash.string = result[0].SieuTocEncrypt;
-            this.lblResult.string = result[0].SieuTocDecrypt;
-            this.lblTotalUserBetTai.string = result[0].TotalAccountEven;
-            this.lblTotalUserBetXiu.string = result[0].TotalAccountOdd;
+            // this.lblSieuTocHash.string = result[0].SieuTocEncrypt;
+            // this.lblResult.string = result[0].SieuTocDecrypt;
+            // this.lblTotalUserBetTai.string = result[0].TotalAccountEven;
+            // this.lblTotalUserBetXiu.string = result[0].TotalAccountOdd;
         },		
 
         onTXGetSessionInfoResponse: function (response) {
@@ -203,17 +210,17 @@
             }, this, 1, 0, delay, false);
         },
         copyHashClicked: function () {
-            cc.Tool.getInstance().copyToClipboard(this.lblSieuTocHash.string)
-			this.animationMess.play('openMessage');
-            this.lblTextNotiNewGame.string = 'Copy chuỗi SIEUTOC thành công';
-			this.animationMess.play('closeMessage');
+            // cc.Tool.getInstance().copyToClipboard(this.lblSieuTocHash.string)
+			// this.animationMess.play('openMessage');
+            // this.lblTextNotiNewGame.string = 'Copy chuỗi SIEUTOC thành công';
+			// this.animationMess.play('closeMessage');
         },
 		
         copyResultClicked: function () {
-            cc.Tool.getInstance().copyToClipboard(this.lblResult.string)
-			this.animationMess.play('openMessage');
-            this.lblTextNotiNewGame.string = 'Copy chuỗi kết quả thành công';
-			this.animationMess.play('closeMessage');
+            // cc.Tool.getInstance().copyToClipboard(this.lblResult.string)
+			// this.animationMess.play('openMessage');
+            // this.lblTextNotiNewGame.string = 'Copy chuỗi kết quả thành công';
+			// this.animationMess.play('closeMessage');
         },
     });
 }).call(this);

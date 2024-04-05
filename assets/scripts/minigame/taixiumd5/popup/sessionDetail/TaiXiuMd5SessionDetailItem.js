@@ -12,9 +12,11 @@
             lbNickName: cc.Label,
             lbBet: cc.Label,
             lbRefund: cc.Label,
+            nodeBG : cc.Node
         },
 
         updateItem: function(item, itemID) {
+            this.nodeBG.active = itemID % 2 !== 0;
             this.lbTime.string = cc.Tool.getInstance().convertUTCTime2(item.CreateTime);
            // this.lbSID.string = cc.Config.getInstance().getServiceNameNoFormat(item.ServiceID);
             this.lbNickName.string = item.UserName;

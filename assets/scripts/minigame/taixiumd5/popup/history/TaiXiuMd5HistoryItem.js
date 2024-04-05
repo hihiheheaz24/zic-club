@@ -7,7 +7,7 @@
     cc.TaiXiuMd5HistoryItem = cc.Class({
         "extends": cc.Component,
         properties: {
-            // nodeBG: cc.Node,
+            nodeBG: cc.Node,
 
             lbSession: cc.Label,
             lbTime: cc.Label,
@@ -20,7 +20,7 @@
         },
 
         updateItem: function(item, itemID) {
-            // this.nodeBG.active = itemID % 2 !== 0;
+            this.nodeBG.active = itemID % 2 !== 0;
             this.lbSession.string = item.SessionID;
             this.lbTime.string = cc.Tool.getInstance().convertUTCTime(item.CreateTime);
             this.lbSide.string = item.BetSide === cc.TaiXiuMd5BetSide.TAI ? 'Tài' : 'Xỉu';

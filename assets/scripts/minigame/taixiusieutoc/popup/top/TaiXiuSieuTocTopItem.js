@@ -7,63 +7,44 @@
     cc.TaiXiuSieuTocTopItem = cc.Class({
         "extends": cc.Component,
         properties: {
-            // nodeBG: cc.Node,
-
+            nodeBG: cc.Node,
             lbRank: cc.Label,
-            //lbSID: cc.Label,
             lbNickName: cc.Label,
             lbTotalWin: cc.Label,
-            rankSprite1: sp.Skeleton,
-            rankSprite2: sp.Skeleton,
+            rankSprite1: cc.Sprite,
+            rankSprite2: cc.Sprite,
             rankSprite3: cc.Sprite,
-            fontRegurlar: cc.Font,
-            fontBold: cc.Font,
-			fontName: cc.Font,
         },
 
         updateItem: function (item, itemID) {
-            // this.nodeBG.active = itemID % 2 !== 0;
-            var color = cc.Color.WHITE;
-            if (itemID < 3) {
-                this.lbRank.node.active = false;
-                this.lbNickName.font = this.fontName;
-                this.lbTotalWin.font = this.fontBold;
-                if (itemID == 0) {
-                    this.rankSprite1.node.active = true;
-                    this.rankSprite2.node.active = false;
-                    this.rankSprite3.node.active = false;
-                    this.lbNickName.node.color = color.fromHEX("#CC0000");
-                    //this.lbTotalWin.node.color = color.fromHEX("#EA21E4");
-                } else if (itemID == 1) {
-                    this.rankSprite1.node.active = false;
-                    this.rankSprite2.node.active = true;
-                    this.rankSprite3.node.active = false;
-                    this.lbNickName.node.color = color.fromHEX("#FFCC00");
-                    //this.lbTotalWin.node.color = color.fromHEX("#27C7F4");
-                } else {
-                    this.rankSprite1.node.active = false;
-                    this.rankSprite2.node.active = false;
-                    this.rankSprite3.node.active = true;
-                    this.lbNickName.node.color = color.fromHEX("#00CC34");
-                    //this.lbTotalWin.node.color = color.fromHEX("#FFB73D");
-                }
-            } else {
-                this.lbNickName.node.color = color.fromHEX("#008DFF");
-                this.lbTotalWin.node.color = color.fromHEX("#FFFFFF");
-                this.lbNickName.font = this.fontName;
-                this.lbTotalWin.font = this.fontRegurlar;
-                this.lbRank.string = itemID + 1;
-                this.lbRank.node.active = true;
-                this.rankSprite1.node.active = false;
-                this.rankSprite2.node.active = false;
-                this.rankSprite3.node.active = false;
-            }
-            //this.lbSID.string = cc.Config.getInstance().getServiceNameNoFormat(item.ServiceID);
-            this.lbNickName.string = item.UserName;
-            this.lbTotalWin.string = cc.Tool.getInstance().formatNumber(item.Award);
+            this.lbRank.node.active = false;
+            this.rankSprite1.node.active = false;
+            this.rankSprite2.node.active = false;
+            this.rankSprite3.node.active = false;
 
-            this.item = item;
-            this.itemID = itemID;
+
+            switch (itemID) {
+                case 0:
+                    this.rankSprite1.node.active = true;
+                    this.lbNickName.node.color = cc.color(252, 193, 0, 255);
+                    this.lbTotalWin.node.color = cc.color(252, 193, 0, 255);
+                    break;
+                case 2:
+                    this.rankSprite2.node.active = true;
+                    this.lbNickName.node.color = cc.color(50, 231, 255, 255);
+                    this.lbTotalWin.node.color = cc.color(50, 231, 255, 255);
+                    break;
+                case 3:
+                    this.rankSprite3.node.active = true;
+                    this.lbNickName.node.color = cc.color(248, 109, 0, 255);
+                    this.lbTotalWin.node.color = cc.color(248, 109, 0, 255);
+                    break;
+                default:
+                    this.lbRank.node.active = true;
+                    this.lbNickName.node.color = cc.color(252, 255, 255, 255);
+                    this.lbTotalWin.node.color = cc.color(252, 255, 255, 255);
+                    break;
+            }
         },
     });
 }).call(this);
