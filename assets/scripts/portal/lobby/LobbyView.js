@@ -1369,7 +1369,7 @@ import Http from "../../common/Http";
                             self.lbLoadingBauCua.node.parent.active = false;
                             //Tao game
                             self.nodeSlotsView = self.createView(prefab);
-                            self.activeNodeLobby(false);
+                            // self.activeNodeLobby(false);
                         }
                     );
                     break;
